@@ -5,6 +5,176 @@
 
 ---
 
+**ThumbnailMenu**: https://github.com/Hitomis/ThumbnailMenu
+
+简单而精致的 Fragment 菜单控件，它可以让你切换 Fragment 的时候眼前一亮
+
+<img src="https://raw.githubusercontent.com/Hitomis/ThumbnailMenu/master/preview/menu_left.gif" width="270" /> <img src="https://raw.githubusercontent.com/Hitomis/ThumbnailMenu/master/preview/menu_bottom.gif" width="270" /> <img src="https://raw.githubusercontent.com/Hitomis/ThumbnailMenu/master/preview/menu_right.gif" width="270" />
+
+---
+
+**StateView**: https://github.com/nukc/StateView
+
+StateView is a lightweight view that absorb characteristics of ViewStub. It can occupy less memory that the initia state is not visible and does not occupy the position of the layout
+
+<img src="https://raw.githubusercontent.com/nukc/stateview/master/art/custom.gif" width="280" />
+
+---
+
+**react-native-material-design**: https://github.com/react-native-material-design/react-native-material-design
+
+react-native-material-design
+
+<img src="https://raw.githubusercontent.com/react-native-material-design/demo-app/master/resources/examples-1.jpg" width="800" />
+
+---
+
+**UltraIndicator**: https://github.com/andyxialm/UltraIndicator
+
+A custom indicator for ViewPager
+
+<img src="https://raw.githubusercontent.com/andyxialm/UltraIndicator/master/art/screenshot.gif" width="320" />
+
+---
+
+**Space-Navigation-View**: https://github.com/armcha/Space-Navigation-View
+
+Space Navigation is a library allowing easily integrate fully customizable Google Spaces like navigation to your app
+
+<img src="https://raw.githubusercontent.com/armcha/Space-Navigation-View/master/screens/screen4.png" width="800" />
+
+---
+
+**InfiniteCycleViewPager**: https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager
+
+Android 支持水平和垂直滑动的ViewPager，效果很赞
+
+<img src="https://camo.githubusercontent.com/45967ca8ab6a4386d783fbfa2c4387e2b1a712d9/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f2d44705139615f6b784f68672f5637734452753642466c492f414141414141414144454d2f4e4c49596f65687062713431737836715464354a5a3372726b4536784851345251434c30422f773234312d683338312d6e6f2f68696376702e676966" width="240" /> <img src="https://camo.githubusercontent.com/cfec8d9c33d2c4495b8088253673bff9b9da9e73/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d656f6a53635f6c314f4c732f5637734452764a594b57492f414141414141414144454d2f5a72576e6c757565466a734b7739764c7272634c61595331502d444d67636f4551434c30422f773234312d683338322d6e6f2f76696376702e676966" width="240" /> <img src="https://camo.githubusercontent.com/35cdea653c0cf3dd57ced6c6e997d5b03420e8de/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d7152526d502d62522d66672f56377344526a76694159492f414141414141414144454d2f6a4d6855345052345a71417353636f4d7a2d6b38454343416c4767725932706851434c30422f773234312d683338312d6e6f2f7477696376702e676966" width="240" />
+
+---
+
+**android-pulse-indicator**: https://github.com/jackpocket/android-pulse-indicator
+
+An Android View system for indicating Views using fading pulses
+
+<img src="https://raw.githubusercontent.com/jackpocket/android-pulse-indicator/master/pulse.gif" width="310" />
+
+---
+
+**android-contextual-action-bar**: https://github.com/Arjun-sna/android-contextual-action-bar
+
+A contextual actionbar library with many customisation option
+
+<img src="https://camo.githubusercontent.com/9f24d61c41d5effc67223c7f665d389cb717dfdd/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f6361622e676966" width="230" />
+
+---
+
+**crystal-viewpager**: https://github.com/syedowaisali/crystal-viewpager
+
+An extended transition of android ViewPager
+
+<img src="https://camo.githubusercontent.com/4aaf7c3d2e00c1a0157886bf1863014827b9113c/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e7949414254365a6b497a5747394961315a66595545" width="200" />
+
+---
+
+**BlurredView**: https://github.com/wl9739/BlurredView
+
+动态模糊效果
+
+<img src="https://raw.githubusercontent.com/wl9739/BlurredView/master/Gif/demo.gif" width="230" />
+
+---
+
+**ScrollableLayout**: https://github.com/w446108264/ScrollableLayout
+
+headview for any view and supports sticking the navigator on the top
+
+<img src="https://github.com/w446108264/ScrollableLayout/raw/master/output/show.gif" width="320" />
+
+---
+
+**GpCollapsingToolbar**: https://github.com/VyacheslavShmakin/GpCollapsingToolbar
+
+Google Play app behaviour collapsing toolbar
+
+---
+
+**CustomizableActionBarDrawerToggle**: https://github.com/VyacheslavShmakin/CustomizableActionBarDrawerToggle
+
+Extended ActionBarDrawerToggle
+
+---
+
+**Material-SearchView**: https://github.com/VyacheslavShmakin/Material-SearchView
+
+SearchView library based on DialogFragment
+
+---
+
+**StickerView**: https://github.com/wuapnjie/StickerView
+
+A view which can add sticker and zoom,drag,delete it
+
+<img src="https://raw.githubusercontent.com/wuapnjie/StickerView/master/screenshots/stickerview.gif" width="240" />
+
+---
+
+**ShrinkingImageLayout**: https://github.com/PierfrancescoSoffritti/ShrinkingImageLayout
+
+Android layout with an header image sensible to scroll and touch events
+
+<img src="https://raw.githubusercontent.com/PierfrancescoSoffritti/ShrinkingImageLayout/master/pics/Animation.gif" width="240" />
+
+---
+
+**SlidingDrawer**: https://github.com/PierfrancescoSoffritti/SlidingDrawer
+
+Android custom View implementing the bottom sheet pattern
+
+<img src="https://raw.githubusercontent.com/PierfrancescoSoffritti/SlidingDrawer/master/pics/SlidingView.gif" width="320" />
+
+---
+
+**DecentBanner**: https://github.com/chengdazhi/DecentBanner
+
+An Android Banner that supports auto scrolling and decent animation
+
+<img src="https://raw.githubusercontent.com/chengdazhi/DecentBanner/master/images/decent_sample.gif" width="640" />
+
+---
+
+**ZoomHeaderViewPager**: https://github.com/patryk1007/ZoomHeaderViewPager
+
+Zoom header for Android ViewPager
+
+<img src="https://camo.githubusercontent.com/f96fe2e1ef9caadc590d81b4ffd3a6d089507abf/68747470733a2f2f627974656275636b65742e6f72672f6d6f6f6475702f6865616465727669657770616765722f7261772f373331616236323431363763663435396463383633343731396465373238653033393662636631342f73637265656e2f64656d6f312e6769663f746f6b656e3d61643831343236363539623738383465613433653630613766356433646230656162333539333436" width="280" />
+
+---
+
+**Flowing-Gradient**: https://github.com/dynamitechetan/Flowing-Gradient
+
+Flowing Gradient Library
+
+<img src="https://raw.githubusercontent.com/dynamitechetan/Flowing-Gradient/master/screenshots/Screenshot_20160720-215934.png" width="640" />
+
+---
+
+**MagicIndicator**: https://github.com/hackware1993/MagicIndicator
+
+强大、可定制、易扩展的 ViewPager 指示器框架
+
+<img src="https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif" width="320" />
+
+---
+
+**LoopBar**: https://github.com/Cleveroad/LoopBar
+
+无限滚动 Tap Bar
+
+<img src="https://raw.githubusercontent.com/Cleveroad/LoopBar/master/images/demo.gif" width="600" />
+
+---
+
 **wrapping-viewpager**: https://github.com/iffa/wrapping-viewpager
 
 带动画的自定义高度的 ViewPager
@@ -27,14 +197,6 @@ An extended ViewPager which provides callbacks for the visibility state of its F
 
 ---
 
-**MarkdownView**: https://github.com/fiskurgit/MarkdownView
-
-Display Markdown in your apps, useful for FAQs, Help, Size Guides, About screens etc
-
-<img src="https://raw.githubusercontent.com/fiskurgit/MarkdownView/master/Screenshot.png" width="800" />
-
----
-
 **A-MusicView**: https://github.com/north2014/A-MusicView
 
 原创自定义控件之-Canvas实时绘制音乐波形图
@@ -47,8 +209,8 @@ Display Markdown in your apps, useful for FAQs, Help, Size Guides, About screens
 
 圆形显示或取消显示 View
 
-<img src="https://raw.githubusercontent.com/Jaouan/Revealator/master/art/demo.gif" width="320" />
-
+<img src="https://raw.githubusercontent.com/Jaouan/Revealator/master/art/demo3.gif" width="270" /> <img src="https://raw.githubusercontent.com/Jaouan/Revealator/master/art/demo2.gif" width="270" /> <img src="https://raw.githubusercontent.com/Jaouan/Revealator/master/art/demo1.gif" width="270" />
+ 
 ---
 
 **Badge**: https://github.com/nekocode/Badge
@@ -80,6 +242,14 @@ A simple ViewPager indicator implementation compatible with the from the Android
 点击可查看详情的 ViewPager
 
 <img src="https://raw.githubusercontent.com/qs-lll/ExpandingPager/master/img/ExpandingPager.gif" width="240" />
+
+---
+
+**material-stepper**: https://github.com/fcannizzaro/material-stepper
+
+Android Library to create simple stepper activities
+
+<img src="https://raw.githubusercontent.com/fcannizzaro/material-stepper/master/screenshot/tabs.png" width="300" />
 
 ---
 
@@ -139,6 +309,14 @@ EasyForm makes a form creation and field validation easy
 
 ---
 
+**2CheckoutWrapper**: https://github.com/ViksaaSkool/2CheckoutWrapper
+
+信用卡等认证
+
+<img src="https://raw.githubusercontent.com/ViksaaSkool/2CheckoutWrapper/master/art/success.gif" width="300" /> <img src="https://raw.githubusercontent.com/ViksaaSkool/2CheckoutWrapper/master/art/failure.gif" width="300" />
+
+---
+
 **CreditCardView**: https://github.com/cooltechworks/CreditCardView
 
 信用卡 View
@@ -195,6 +373,14 @@ Quick image ViewPagers
 
 ---
 
+**jjdxm_ijkplayer**: https://github.com/jjdxmashl/jjdxm_ijkplayer
+
+基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装
+
+<img src="https://raw.githubusercontent.com/jjdxmashl/jjdxm_ijkplayer/master/screenshots/icon01.gif" width="320" />
+
+---
+
 **JieCaoVideoPlayer**: https://github.com/lipangit/JieCaoVideoPlayer
 
 android videoplayer mediaplayer videoview mediaview and fullscreen
@@ -238,14 +424,6 @@ TabLayout CollapsingToolbarLayout CoordinatorLayout 使用示例
 YouTube 控制播放
 
 <img src="https://raw.githubusercontent.com/JackDinealKIM/youtube-android-player-helper/master/capture1.png" width="320" /> <img src="https://raw.githubusercontent.com/JackDinealKIM/youtube-android-player-helper/master/capture2.png" width="320" />
-
----
-
-**material-tip**: https://github.com/fcannizzaro/material-tip
-
-Android Library for prompt tip
-
-<img src="https://raw.githubusercontent.com/Jude95/RollViewPager/master/example.jpg" width="320" />
 
 ---
 
@@ -337,6 +515,14 @@ a view widget of WindRoseDiagram in android platform http://timqi.com
 
 ---
 
+**MaterialPreference**: https://github.com/RikkaW/MaterialPreference
+
+Easy to use Material Desgin Preference UI
+
+<img src="https://raw.githubusercontent.com/RikkaW/MaterialPreference/master/demo.gif" width="320">
+
+---
+
 **MaterialPreference**: https://github.com/codevscolor/MaterialPreference
 
 MD 风格的设置界面，兼容5.0以下 Currently supporting devices upto api 8
@@ -361,15 +547,6 @@ A Breadcrumb view based on the TabLayout
 
 ---
 
-**SpringView**: https://github.com/liaoinstan/SpringView
-
-A custom view can pull up and down,support ScrollView,ListView,RecyclerView,WebView
-
-![1](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212323072_s.gif) ![2](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212372609_s.gif)
-![3](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212462800_s.gif) ![4](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212485237_s.gif)
-
----
-
 **android-widget-connectpattern**: https://github.com/BCGDV-ASIA/android-widget-connectpattern
 
 Draw a pattern to confirm the action, unlock the screen etc
@@ -386,12 +563,35 @@ Navigation tab strip with smooth interaction
 
 ---
 
+**Material-Design-Login**: https://github.com/Yellow5A5/Material-Design-Login
+
+Material-Design风格的动画注册登陆界面～够清爽～
+
+<img src="https://raw.githubusercontent.com/Yellow5A5/Material-Design-Login/master/image/demo_show1.gif" width="320" /> <img src="https://raw.githubusercontent.com/Yellow5A5/Material-Design-Login/master/image/demo_show2.gif" width="320" />
+
+---
+
+**unipiazza-android-twostepslogin**: https://github.com/unipiazza/unipiazza-android-twostepslogin
+
+一个很棒的两步登录界面设计
+
+<img src="https://raw.githubusercontent.com/unipiazza/unipiazza-android-twostepslogin/master/art/demo1.png" width="320" /> <img src="https://github.com/unipiazza/unipiazza-android-twostepslogin/raw/master/art/demo.gif" width="320" />
+
+---
+
 **materiallogindemo**: https://github.com/sourcey/materiallogindemo
 
 MD 风格的登录、注册界面布局
 
 <img src="http://sourcey.com/beautiful-android-logn-and-signup-screens-with-material-design/screenshot-login.png" width="320" /> <img src="http://sourcey.com/beautiful-android-logn-and-signup-screens-with-material-design/screenshot-signup.png" width="320" />
 
+---
+
+**MaterialLogin**: https://github.com/fanrunqi/MaterialLogin
+
+Amazing Material Login effect
+
+<img src="https://raw.githubusercontent.com/fanrunqi/MaterialLogin/master/screenshots/this.gif" width="320" />
 ---
 
 **MaterialLogin**: https://github.com/shem8/MaterialLogin
@@ -410,6 +610,14 @@ Login view with material design
 
 ---
 
+**android-drag-FlowLayout**: https://github.com/LightSun/android-drag-FlowLayout
+
+this is a draggable flow layout lib
+
+<img src="https://raw.githubusercontent.com/LightSun/android-drag-FlowLayout/master/art/drag_flowlayout.gif" width="320" />
+
+---
+
 **FlowTag**: https://github.com/hanhailong/FlowTag
 
 Android流式布局，支持点击、单选、多选等，适合用于产品标签等
@@ -418,11 +626,19 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 
 ---
 
-**TagView**: https://github.com/Cutta/TagView
+**Android-Cloud-TagView-Plus**: https://github.com/kaedea/Android-Cloud-TagView-Plus
 
-Android TagView-HashTagView
+An Android Cloud Tag Widget
 
-<img src="https://camo.githubusercontent.com/397c91d68dc6e496f194391481fa3a4408bb83f1/687474703a2f2f7331312e706f7374696d672e6f72672f727279376c773837372f53637265656e73686f745f323031355f30395f32395f32315f31375f35332e706e67" width="320" /> <img src="https://camo.githubusercontent.com/6bf012e1526dd04ccf9f8a71083f1d52c44250d3/687474703a2f2f692e67697068792e636f6d2f336f456475466c7332744177724f414c7a472e676966" width="320" />
+<img src="https://camo.githubusercontent.com/c89ab52cbc45a4929dafaff12e7d8d06b02eaa7b/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4e332d72365a5f463055753368543546733448347930534e5735706a615575424d7533714c5a7350676f513d73363030" width="320" />
+
+---
+
+**FlowLayout**: https://github.com/fanrunqi/FlowLayout
+
+label quick input layout
+
+<img src="https://raw.githubusercontent.com/fanrunqi/FlowLayout/master/screenshots/1.gif" width="320" />
 
 ---
 
@@ -516,6 +732,22 @@ Expand your view with no problem
 
 ---
 
+**GuideView**: https://github.com/eoinfogarty/Onboarding
+
+A beautiful way to introduce users to your app
+
+<img src="https://github.com/eoinfogarty/Onboarding/raw/master/graphics/example.gif" width="640" />
+
+---
+
+**LiulishuoPreview**: https://github.com/JeasonWong/LiulishuoPreview
+
+英语流利说炫酷引导页
+
+<img src="https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif" width="280" />
+
+---
+
 **GuideView**: https://github.com/binIoter/GuideView
 
 安卓引导 View
@@ -570,6 +802,14 @@ Demo of the onboarding animations of Yahoo News App
 Count down, count up, tick... tock...
 
 <img src="https://camo.githubusercontent.com/a99213ab9cbd3056b71b34d551d984ed422a438c/687474703a2f2f692e67697068792e636f6d2f50647835314a426635663930412e676966" width="320" />
+
+---
+
+**MaterialSearchBar**: https://github.com/mancj/MaterialSearchBar
+
+Material Design Search Bar for Android
+
+<img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/ezgif-838715850.gif" width="320" /> <img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/device-2016-07-20-170335.png" width="320" />
 
 ---
 
@@ -767,6 +1007,22 @@ The TileView widget is a subclass of android.view.ViewGroup that asynchronously 
 <img src="https://cloud.githubusercontent.com/assets/701344/10954031/d2059c3e-8310-11e5-821d-26dd8691d4d3.gif" width="400" />
 <img src="https://cloud.githubusercontent.com/assets/701344/10954032/d207ffc4-8310-11e5-926d-038549987d47.gif" width="400" />
 <img src="https://cloud.githubusercontent.com/assets/701344/10954035/d20aee5a-8310-11e5-9027-ff06bc921a23.gif" width="400" />
+
+---
+
+**TapTargetView**: https://github.com/KeepSafe/TapTargetView
+
+超级漂亮的一个高亮功能提醒效果
+
+<img src="https://raw.githubusercontent.com/KeepSafe/TapTargetView/master/art/video.gif" width="270" /> <img src="https://raw.githubusercontent.com/KeepSafe/TapTargetView/master/art/screenshot1.png" width="270" /> <img src="https://raw.githubusercontent.com/KeepSafe/TapTargetView/master/art/screenshot2.png" width="270" />
+
+---
+
+**TutoShowcase**: https://github.com/florent37/TutoShowcase
+
+A simple and Elegant Showcase view for Android
+
+<img src="https://raw.githubusercontent.com/florent37/TutoShowcase/master/media/sample.png" width="320" />
 
 ---
 
@@ -1136,22 +1392,6 @@ Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Pre
 A simple implementation of swipe card like StreetView
 
 <img src="https://camo.githubusercontent.com/34eb6cf9cafe50eb7cdb711b1b5a0728610a1f54/687474703a2f2f692e67697068792e636f6d2f336f38646f5558786a4f437748773247456f2e676966" width="320" /> <img src="https://camo.githubusercontent.com/0017a533c49257bc23341cff025f9e03b3b5503f/687474703a2f2f692e67697068792e636f6d2f3236745038334a72704e396d704e3577412e676966" width="320" />
-
----
-
-**androidWheelView**: https://github.com/weidongjian/androidWheelView
-
-仿照iOS的滚轮控件，从请吃饭apk反编译出来的
-
-<img src="https://cloud.githubusercontent.com/assets/7868514/15390811/7269dbac-1df0-11e6-92a7-899ef62bbbb4.png" width="320" />
-
----
-
-**LondonEyeLayoutManager**: https://github.com/Danylo2006/LondonEyeLayoutManager
-
-A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory
-
-<img src="https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif" width="320" />
 
 ---
 

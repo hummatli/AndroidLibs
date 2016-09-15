@@ -6,6 +6,70 @@
 
 ---
 
+**FlipShare**: https://github.com/JeasonWong/FlipShare
+
+炫酷分享组件
+
+<img src="https://raw.githubusercontent.com/jeasonwong/FlipShare/master/screenshots/flipshare.gif" width="280" />
+
+---
+
+**DropDownWarning**: https://github.com/Brudigem/DropDownWarning
+
+掉落通知效果
+
+<img src="https://raw.githubusercontent.com/Brudigem/DropDownWarning/master/gif/bounce.gif" width="320" />
+
+---
+
+**ColorDialog**: https://github.com/andyxialm/ColorDialog
+
+ColorDialog & PromptDialog
+
+<img src="https://raw.githubusercontent.com/andyxialm/ColorDialog/master/art/Screenshot_type_success.png" width="270" /> <img src="https://raw.githubusercontent.com/andyxialm/ColorDialog/master/art/Screenshot_type_info.png" width="270" /> <img src="https://raw.githubusercontent.com/andyxialm/ColorDialog/master/art/Screenshot_type_help.png" width="270" />
+
+---
+
+**BottomSheetExample**: https://github.com/rubensousa/BottomSheetExample
+
+A sample project with the new BottomSheet classes from the android support library
+
+<img src="https://raw.githubusercontent.com/rubensousa/BottomSheetExample/master/screens/screen-view.png" width="320" />
+
+---
+
+**Floating-Navigation-View**: https://github.com/andremion/Floating-Navigation-View
+
+A simple Floating Action Button that shows an anchored Navigation View
+
+<img src="https://raw.githubusercontent.com/andremion/Floating-Navigation-View/master/art/sample.gif" width="270" />
+
+---
+
+**android-adDialog**: https://github.com/yipianfengye/android-adDialog
+
+一个简单，强大的广告活动弹窗控件
+
+<img src="https://raw.githubusercontent.com/yipianfengye/android-adDialog/master/images/ezgif.com-video-to-gif1.gif" width="320" />
+
+---
+
+**FloatViewFinal**: https://github.com/pengjianbo/FloatViewFinal
+
+泡椒网游戏 SDK Float View(悬浮窗)
+
+<img src="https://raw.githubusercontent.com/pengjianbo/FloatViewFinal/master/images/screenshot0.png" width="320" />
+
+---
+
+**TastyToast**: https://github.com/yadav-rahul/TastyToast
+
+Make your native android Toasts Tasty
+
+<img src="https://raw.githubusercontent.com/yadav-rahul/TastyToast/lib/static/success.gif" width="270" /> <img src="https://raw.githubusercontent.com/yadav-rahul/TastyToast/lib/static/default.gif" width="270" /> <img src="https://raw.githubusercontent.com/yadav-rahul/TastyToast/lib/static/warning.gif" width="270" />
+
+---
+
 **RelativePopupWindow**: https://github.com/kakajika/RelativePopupWindow
 
 Android PopupWindow that can be easily located relative to anchor View
@@ -19,6 +83,14 @@ Android PopupWindow that can be easily located relative to anchor View
 MDDialog
 
 <img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/md_dialog_setview.png" width="300" /> <img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/md_dialog_setmessages.png" width="300" />
+
+---
+
+**pretty-toast**: https://github.com/CROSP/pretty-toast
+
+This is quite simple toast library, that make it easier to show and create custom toast
+
+<img src="https://raw.githubusercontent.com/CROSP/pretty-toast/master/screen-animation.gif" width="320" />
 
 ---
 
@@ -102,6 +174,30 @@ Android AlertDialog with mowing dots progress indicator
 
 ---
 
+**Tooltip**: https://github.com/ViHtarb/Tooltip
+
+Simple to use customizable Android Tooltips library based on PopupWindow
+
+<img src="https://raw.githubusercontent.com/ViHtarb/Tooltip/master/art/demo.gif" width="320" />
+
+---
+
+**Tooltip**: https://github.com/jayrambhia/Tooltip
+
+给 View 添加提示
+
+<img src="https://raw.githubusercontent.com/jayrambhia/Tooltip/master/art/demo1.gif" width="480" />
+
+---
+
+**tooltips**: https://github.com/tomergoldst/tooltips
+
+给 View 添加提示
+
+<img src="https://cloud.githubusercontent.com/assets/19874536/16546659/485f29ba-415a-11e6-898d-c880e4b643b6.gif" width="320" /> <img src="https://cloud.githubusercontent.com/assets/19874536/16546707/9b891816-415b-11e6-9be6-735a5649f1d7.gif" width="320" />
+
+---
+
 **android-simple-tooltip**: https://github.com/douglasjunior/android-simple-tooltip
 
  simple library based on PopupWindow to create Tooltips on Android
@@ -128,9 +224,7 @@ This library is a set of simple wrapper classes that are aimed to help you easil
 
 **material-dialogs**: https://github.com/afollestad/material-dialogs
 
-A beautiful dialogs API, enabling you to use Material designed dialogs down to API 8.http://aidanfollestad.com
-
-<img src="https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mddemoshowcase.png" width="700" />
+多种应用在使用，A beautiful dialogs API, enabling you to use Material designed dialogs down to API 8.http://aidanfollestad.com
 
 ---
 

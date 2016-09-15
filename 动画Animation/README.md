@@ -6,6 +6,86 @@
 
 ---
 
+**CannyViewAnimator**: https://github.com/LiveTyping/CannyViewAnimator
+
+好看的动画
+
+<img src="https://raw.githubusercontent.com/LiveTyping/CannyViewAnimator/master/readme_extra/top_1.gif" width="240" /> <img src="https://raw.githubusercontent.com/LiveTyping/CannyViewAnimator/master/readme_extra/top_2.gif" width="240" /> <img src="https://raw.githubusercontent.com/LiveTyping/CannyViewAnimator/master/readme_extra/top_3.gif" width="240" />
+
+---
+
+**ClockDrawableAnimation**: https://github.com/evelyne24/ClockDrawableAnimation
+
+Android animated clock Drawable
+
+<img src="https://raw.githubusercontent.com/evelyne24/ClockDrawableAnimation/master/Screenshot.png" width="320" />
+
+---
+
+**Particle**: https://github.com/JeasonWong/Particle
+
+可用于splash的动画
+
+<img src="https://raw.githubusercontent.com/jeasonwong/Particle/master/screenshots/particle.gif" width="320" />
+
+---
+
+**Material-Animations**: https://github.com/lgvalle/Material-Animations
+
+Android Transition animations explanation with examples
+
+<img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif" width="270" /> <img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_slide.gif" width="270" /> <img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_fade.gif" width="270" />
+
+---
+
+**Sending-Animation-Example**: https://github.com/Jaouan/Sending-Animation-Example
+
+Android 炫酷发送效果 Demo
+
+<img src="https://raw.githubusercontent.com/Jaouan/Sending-Animation-Example/master/art/demo.gif" width="320" />
+
+---
+
+**SignUpTransition**: https://github.com/JeasonWong/SignUpTransition
+
+炫酷的注册登录动画
+
+<img src="https://raw.githubusercontent.com/jeasonwong/signuptransition/master/screenshots/scene.gif" width="300" />
+
+---
+
+**SlackLoadingView**: https://github.com/JeasonWong/SlackLoadingView
+
+Slack的Loading动画
+
+<img src="https://camo.githubusercontent.com/f8e66102a3782e6b1bd6116bc2fee0179c375a5e/687474703a2f2f69322e7069696d672e636f6d2f313037302f306133626265623762373363366638372e676966" width="320" />
+
+---
+
+**nougat-boot-animation**: https://github.com/ybq/nougat-boot-animation
+
+安卓7.0启动动画
+
+<img src="https://raw.githubusercontent.com/ybq/nougat-boot-animation/master/art/effect.gif" width="320" />
+
+---
+
+**animate**: https://github.com/hitherejoe/animate
+
+多种动画效果
+
+<img src="https://raw.githubusercontent.com/hitherejoe/animate/master/images/object_animator.gif" width="270" /> <img src="https://raw.githubusercontent.com/hitherejoe/animate/master/images/circular_reveal.gif" width="270" /> <img src="https://raw.githubusercontent.com/hitherejoe/animate/master/images/explode_window_transition.gif" width="270" />
+
+---
+
+**crystal-preloaders**: https://github.com/syedowaisali/crystal-preloaders
+
+多种加载动画效果
+
+<img src="https://camo.githubusercontent.com/cc7f7f9c3869e07623e789df154b10878e0506fa/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e7949414254365230347a4e446c54656c633051324d" width="180" />
+
+---
+
 **LikeAnimation**: https://github.com/frogermcs/LikeAnimation
 
 类 Twitter 点赞效果
@@ -62,6 +142,14 @@ Progress view that animates its state changes
 
 ---
 
+**ExpandableSearchView**: https://github.com/v-b7/ExpandableSearchView
+
+伸缩动画 SearchView
+
+<img src="https://raw.githubusercontent.com/v-b7/ExpandableSearchView/master/demo.gif" width="320" />
+
+---
+
 **JJSearchViewAnim**: https://github.com/android-cjj/JJSearchViewAnim
 
 A cool search view animation library
@@ -75,7 +163,7 @@ A cool search view animation library
 
 Nice loading animations for Android
 
-<img src="https://github.com/81813780/AVLoadingIndicatorView/blob/master/Demo2.gif" width="320" />
+<img src="https://raw.githubusercontent.com/81813780/AVLoadingIndicatorView/master/screenshots/avi.gif" width="320" />
 
 ---
 
@@ -165,8 +253,6 @@ FragmentTransactionExtended is a library which provide us a set of custom animat
 **KenBurnsView**: [https://github.com/flavioarfaria/KenBurnsView](https://github.com/flavioarfaria/KenBurnsView)
 
 Android ImageViews animated by Ken Burns Effect
-
-<img src="https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966" width="320" />
 
 ---
  

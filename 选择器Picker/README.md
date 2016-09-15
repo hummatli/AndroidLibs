@@ -1,8 +1,38 @@
 # AndroidLibs == 选择器 Picker
 
-包含：时间、地址、颜色选择 ……
+包含：时间、地址、颜色、文件选择 ……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
+
+---
+
+**nice-spinner**: https://github.com/arcadefire/nice-spinner
+
+nice-spinner
+
+<img src="https://raw.githubusercontent.com/arcadefire/nice-spinner/master/nice-spinner.gif" width="320" />
+
+---
+
+**android_contact_picker**: https://github.com/codinguser/android_contact_picker
+
+提取、显示安卓联系人
+
+---
+
+**FlatTimeCollection**: https://github.com/anastr/FlatTimeCollection
+
+Amazing Dynamic Time UI :clock1030: :hourglass: and More
+
+<img src="https://raw.githubusercontent.com/anastr/FlatTimeCollection/master/images/FlatClockView.gif" width="270" /> <img src="https://raw.githubusercontent.com/anastr/FlatTimeCollection/master/images/CountDownTimerView.gif" width="270" /> <img src="https://raw.githubusercontent.com/anastr/FlatTimeCollection/master/images/HourGlassView.gif" width="140" />
+
+---
+
+**ScaleRuler**: https://github.com/ZBJDSBJ/ScaleRuler
+
+身高、体重横向滚动刻度尺选择器
+
+<img src="https://raw.githubusercontent.com/ZBJDSBJ/ScaleRuler/master/app/src/main/res/raw/scaleruler5.jpg" width="320" /> <img src="https://raw.githubusercontent.com/ZBJDSBJ/ScaleRuler/master/app/src/main/res/raw/scaleruler2.jpg" width="320" />
 
 ---
 
@@ -30,6 +60,14 @@ TagSelectorView
 
 ---
 
+**HorizontalExpandableCalendar-Android**: https://github.com/sulo61/HorizontalExpandableCalendar-Android
+
+Android Expandable Calendar
+
+<img src="https://camo.githubusercontent.com/4feb9f103d1aac2dbc16667502210ee975042aef/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f77694d54354f30686b39512f302e6a7067" width="480" />
+
+---
+
 **GregorianLunarCalendar**: https://github.com/Carbs0126/GregorianLunarCalendar
 
 GregorianLunarCalendar提供了农历+公历的日期选择模式，同时支持公历+农历的无缝切换
@@ -43,6 +81,89 @@ GregorianLunarCalendar提供了农历+公历的日期选择模式，同时支持
 CalendarListview是一个高度定制的日期选择器，可以满足多选日期的需求
 
 <img src="https://raw.githubusercontent.com/henry-newbie/CalendarView/master/screenshot/calendar.gif" width="540" />
+
+---
+
+**CustomCalendar**: https://github.com/Riontech/CustomCalendar
+
+CustomCalendar
+
+<img src="https://camo.githubusercontent.com/aae72fc5d6faa2fb66e734c91fd53a6842b19224/687474703a2f2f72696f6e746563682e636f6d2f6c6962726172792f63616c656e6461722f63616c656e6461722e676966" width="320" />
+
+---
+
+**CompactCalendarView**: https://github.com/SundeepK/CompactCalendarView
+
+仿谷歌日历
+
+<img src="https://github.com/SundeepK/CompactCalendarView/raw/master/images/compact_calendar_animation.gif" width="320" />
+
+---
+
+**material-calendarview**: https://github.com/prolificinteractive/material-calendarview
+
+A Material design back port of Android's CalendarView.[https://prolificinteractive.github.io/material-calendarview/](https://prolificinteractive.github.io/material-calendarview/)
+
+<img src="https://github.com/prolificinteractive/material-calendarview/blob/master/images/screencast.gif" width="320" />
+
+---
+
+**Caldroid**: [https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid)
+
+A better calendar for Android
+
+<img src="https://camo.githubusercontent.com/8160f830305493135ea8ae1fbd9e12713d6f0972/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f312e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/7ef947cbda3fd00d9b05bdf321499af9f4ec35f0/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f6461726b2e706e67" width="320" />
+
+---
+
+**Android-MonthCalendarWidget**: [https://github.com/romannurik/Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget)
+
+A simple example of a responsive Month Calendar app widget for Android
+
+<img src="https://camo.githubusercontent.com/d5fe492d922b4ff1fb2e050fc33e0d99dc12105f/68747470733a2f2f7261772e6769746875622e636f6d2f726f6d616e6e7572696b2f416e64726f69642d4d6f6e746843616c656e6461725769646765742f6d61737465722f6865726f2e706e67" width="320" />
+
+---
+
+**CircleTimerView**: [https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView)
+
+Circular timer on Android platform.
+
+<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample.gif" width="320" />
+<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample2.gif" width="320" />
+
+---
+
+**android-times-square**: [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
+
+Standalone Android widget for picking a single date from a calendar view.
+
+<img src="https://github.com/square/android-times-square/blob/master/timesSquareScreenshot.png" width="320" />
+
+---
+
+**Android-Week-View**: [https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)
+
+Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.
+
+<img src="https://github.com/alamkanak/Android-Week-View/blob/develop/images/screen-shot.png" width="640" />
+
+---
+
+**SilkCal**: [https://github.com/NLMartian/SilkCal](https://github.com/NLMartian/SilkCal)
+
+Android calendar view inspired by Sunrise calendar and iOS7 stock calendar
+
+<img src="https://github.com/NLMartian/SilkCal/raw/master/images/screenshot.gif" width="320" />
+
+---
+
+**CompactCalendarView**: [https://github.com/SundeepK/CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)
+
+An android library which provides a compact calendar view much like the one used in google calenders, following material design.
+
+<img src="https://github.com/SundeepK/CompactCalendarView/blob/master/images/compact-calendar-view-example.png" width="320" />
+<img src="https://github.com/SundeepK/CompactCalendarView/blob/master/images/chinese-locale-daynames.png" width="320" />
 
 ---
 
@@ -86,6 +207,22 @@ a better DropDownMenu solution, 完整的筛选器解决方案
 
 ---
 
+**Android-FilePicker**: https://github.com/DroidNinja/Android-FilePicker
+
+Photopicker and document picker for android
+
+img src="https://camo.githubusercontent.com/b51eec20abd3cf684fe86f30ddb360590bf69511/687474703a2f2f692e696d6775722e636f6d2f577857754a4b6e2e706e67" width="270"/> img src="https://camo.githubusercontent.com/8b8f68b876211518fc90beb9fa200e585943b35e/687474703a2f2f692e696d6775722e636f6d2f54444942784c592e706e67" width="270"/> img src="https://camo.githubusercontent.com/894c59ad1df8a27e39f3a4e197d4c2820bcb92e3/687474703a2f2f692e696d6775722e636f6d2f48726d554576532e706e67" width="270"/> 
+
+---
+
+**android-filepicker**: https://github.com/Angads25/android-filepicker
+
+Selecting directories/files made a lot easier
+
+img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot1.png" width="270"/> img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot3.png" width="270"/> img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot4.png" width="270"/> 
+
+---
+
 **MaterialFilePicker**: https://github.com/nbsp-team/MaterialFilePicker
 
 MD 风格文件选择器
@@ -108,6 +245,16 @@ Pick a date or time on Android in style
 CountryPicker is a simple library that can be show a country picker
 
 <img src="https://raw.githubusercontent.com/mukeshsolanki/country-picker/master/Screenshot_20160506-152951.png" width="320" />
+
+---
+
+**androidWheelView**: https://github.com/weidongjian/androidWheelView
+
+仿照iOS的滚轮控件，从请吃饭apk反编译出来的
+
+<img src="https://cloud.githubusercontent.com/assets/7868514/15390811/7269dbac-1df0-11e6-92a7-899ef62bbbb4.png" width="320" />
+
+---
 
 **Android-PickerView**: https://github.com/saiwu-bigkoo/Android-PickerView
 

@@ -1,8 +1,118 @@
 # AndroidLibs == 开发框架 Framework
 
-包含：各种快速开发框架、测试框架、系统框架、设计模式框架……
+包含：各种快速开发框架、测试框架、系统框架、插件补丁框架、设计模式框架、主题切换框架……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
+
+---
+
+**delta**: https://github.com/byteam/delta
+
+Android热修复与增量升级，基于微信Tinker原理
+
+---
+
+**Amigo**: https://github.com/eleme/Amigo
+
+A hotfix library for Android platform, and not just this...
+
+---
+
+**Tinker_imitator**: https://github.com/zzz40500/Tinker_imitator
+
+微信热更新方案实践
+
+---
+
+**SmartGo**: https://github.com/Sausure/SmartGo
+
+An easier way to launch framework components
+
+---
+
+**green-coffee**: https://github.com/mauriciotogneri/green-coffee
+
+Android library that allows you to run Cucumber scenarios in your instrumentation tests
+
+<img src="https://camo.githubusercontent.com/5948fb2a1f9c0ec487383669be1cdbed22d38c87/687474703a2f2f692e696d6775722e636f6d2f34724d4b314b4b2e676966" width="600"/>
+
+---
+
+**abtestgen**: https://github.com/imperial-crystalline-recursion/abtestgen
+
+An Android library for generating simple A/B tests
+
+---
+
+**restito**: https://github.com/mkotsur/restito
+
+Restito - mocking framework for testing rest clients
+
+---
+
+**SimpleChat**: https://github.com/AndreiD/SimpleChat
+
+The best room chat system for Android. Real-time, IRC Style using firebase as database
+
+<img src="https://raw.githubusercontent.com/AndreiD/SimpleChat/master/simple_chat_gif.gif" width="800"/>
+
+---
+
+**easydatabinding**: https://github.com/joxad/easydatabinding
+
+This project goal is to create activity fragment and views, with less code to be more efficient on the view models
+
+---
+
+**Chateau**: https://github.com/badoo/Chateau
+
+Chateau is a framework for adding (or improving) chat functionality in any Android app
+
+<img src="https://raw.githubusercontent.com/badoo/Chateau/master/doc/conversations-screenshot.png" width="320"/> <img src="https://raw.githubusercontent.com/badoo/Chateau/master/doc/chat-screenshot.png" width="320"/>
+
+---
+
+**ZeusPlugin**: https://github.com/iReaderAndroid/ZeusPlugin
+
+Android下插件补丁的开发框架
+
+---
+
+**test-butler**: https://github.com/linkedin/test-butler
+
+Reliable Android Testing, at your service
+
+---
+
+**Scoper**: https://github.com/bgogetap/Scoper
+
+Lightweight Dagger 2 scoped component management library
+
+---
+
+**ThirtyInch**: https://github.com/grandcentrix/ThirtyInch
+
+a MVP library for Android
+
+---
+
+**Auster**: https://github.com/Prokky/Auster
+
+Simple lightweight MVP library for Android
+
+---
+
+**ferro**: https://github.com/MaksTuev/ferro
+
+Simple and powerful MVP library for Android
+
+<img src="https://raw.githubusercontent.com/MaksTuev/ferro/master/ferro.gif" width="640"/>
+
+---
+
+**Hook**: https://github.com/renaudcerrato/Hook
+
+Minimalist, annotation based, hook framework for Android built on top of AspectJ
 
 ---
 
@@ -37,6 +147,30 @@ A framework for building Mobile cross-platform UI http://alibaba.github.io/weex
 Android Design 设计模板
 
 <img src="https://camo.githubusercontent.com/3ec1975d481fbe1fa3b2bbe7d875041af8af2b73/687474703a2f2f7777772e616e64726561732d736368726164652e64652f6173736574732f65787465726e616c2f616e696d6174696f6e312e676966" width="200" /> <img src="https://camo.githubusercontent.com/1e24553ed0f0a853e11e912e344978b590f4937d/687474703a2f2f7777772e616e64726561732d736368726164652e64652f6173736574732f65787465726e616c2f73637265656e2d6e65787573352d322e6a7067" width="200" /> <img src="https://camo.githubusercontent.com/8b4e3975d80aecdeb9f12f428a8c6f088b180d60/687474703a2f2f7777772e616e64726561732d736368726164652e64652f6173736574732f65787465726e616c2f616e696d6174696f6e322e676966" width="200" /> <img src="https://camo.githubusercontent.com/ff8b2151ae5da9366229944d21fda6616193f510/687474703a2f2f7777772e616e64726561732d736368726164652e64652f6173736574732f65787465726e616c2f73637265656e2d6e65787573352d332e6a7067" width="200" />
+
+---
+
+**AndroidMvc**：https://github.com/kejunxia/AndroidMvc
+
+Android MVC/MVP/MVVM framework http://kejunxia.github.io/AndroidMvc
+
+---
+
+**android-base-mvp**：https://github.com/derohimat/android-base-mvp
+
+Android Base MVP Concept with RXJava, Dagger, Event Bus, Retrofit, Glide, OkHTTP
+
+---
+
+**AMVP**：https://github.com/rubensousa/AMVP
+
+A simple Model-View-Presenter library for Android
+
+---
+
+**RainbowMVP**：https://github.com/Ne1c/RainbowMVP
+
+Lightweight Android MVP library with easy implementation
 
 ---
 
@@ -154,7 +288,7 @@ VR Player for android
 
 ---
 
-**AndRouter**：https://github.com/AppLozic/Applozic-Android-SDK
+**Applozic-Android-SDK**：https://github.com/AppLozic/Applozic-Android-SDK
 
 安卓实时聊天框架
 
@@ -177,17 +311,15 @@ PalDB is an embeddable write-once key-value store written in Java.
 
 ---
 
-**MultipleTheme**：[https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
+**NightModel**: https://github.com/achenglike/NightModel
 
-Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.
+a night model lib for easy change app's night theme
 
 ---
 
-**AndroidFontsManager**: [https://github.com/GcsSloop/AndroidFontsManager](https://github.com/GcsSloop/AndroidFontsManager)
+**MultipleTheme**：https://github.com/dersoncheng/MultipleTheme
 
-字体管理器，方便快速的为应用内所有组件更换字体。
-
-<img src="https://github.com/GcsSloop/AndroidFontsManager/blob/master/Pic/fontsmanagerdemo.gif" width="320" />
+Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.
 
 ---
 

@@ -6,6 +6,80 @@
 
 ---
 
+**RadioRealButton**: https://github.com/ceryle/RadioRealButton
+
+RadioRealButton
+
+<img src="https://cloud.githubusercontent.com/assets/20969019/18049723/9f86cfee-6df2-11e6-8ef4-9abf09d382d2.gif" width="260" /> 
+<img src="https://cloud.githubusercontent.com/assets/20969019/18049725/9f887a42-6df2-11e6-8974-413950c61ed5.gif" width="260" />
+
+
+---
+
+**Cuboid-Circle-Button**: https://github.com/MuhammadArsalanChishti/Cuboid-Circle-Button
+
+Android Circle Buttons
+
+<img src="https://camo.githubusercontent.com/5e1a4aadad5025e76e82cef204e9af39e0dcb700/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042397a506b61547847784a464e7a68425a554657566d46744e6c55" width="320" />
+
+---
+
+**SmoothCheckBox**: https://github.com/andyxialm/SmoothCheckBox
+
+SmoothCheckBox
+
+<img src="https://raw.githubusercontent.com/andyxialm/SmoothCheckBox/master/art/smoothcb.gif" width="320" />
+
+---
+
+**ACheckBox**: https://github.com/Bigmercu/ACheckBox
+
+CheckBox for Android with cool animation
+
+<img src="https://camo.githubusercontent.com/165c1c9ccb40d0161002395e154f74e645845ea3/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f6234356635366636677731663675656f6b7a6830376732303761306378646b6c2e676966" width="260" />
+
+---
+
+**AnimCheckBox**: https://github.com/lguipeng/AnimCheckBox
+
+Animation CheckBox
+
+<img src="https://github.com/lguipeng/AnimCheckBox/blob/master/art/animcheckbox.gif" width="400" />
+
+---
+
+**CircleCheckBox**: https://github.com/arlindiDev/CircleCheckBox
+
+CircleCheckBox is an Android custom view, that simply animates the check
+
+<img src="https://camo.githubusercontent.com/babf6e0390d054a6a694bee1c198c051d7b3e218/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f785430424b75546b6e523539545a45516a432f67697068792e676966" width="320" />
+
+---
+
+**MagicButton**: https://github.com/daniel-martins-IR/MagicButton
+
+MagicButton
+
+<img src="https://raw.githubusercontent.com/daniel-martins-IR/MagicButton/master/app/src/main/res/drawable/giphy.gif" width="270" />
+
+---
+
+**CheckView**: https://github.com/Shyish/CheckView
+
+An animated toggling Plus/Check button for Android
+
+<img src="https://raw.githubusercontent.com/Shyish/CheckView/master/gifs/checkview.gif" width="150" />
+
+---
+
+**SubmitButton**: https://github.com/SparkYuan/SubmitButton
+
+优雅的 Button
+
+<img src="https://raw.githubusercontent.com/SparkYuan/SubmitButton/master/pic/submitbutton.gif" width="320" />
+
+---
+
 **jelly-direction-button**: https://github.com/bonghyun2/jelly-direction-button
 
 朝上下左右移动的 ToggleButton
@@ -43,6 +117,14 @@ Animation of liquid loading button
 LiveButton
 
 <img src="https://camo.githubusercontent.com/0e3eef545f283b33bc4f14aa3bc0e038ce716c57/68747470733a2f2f7261772e6769746875622e636f6d2f64616b6174736f2f4c697665427574746f6e2f6d61737465722f6578616d706c652e676966" width="400" />
+
+---
+
+**SwitchButton**: https://github.com/BaymaxTong/SwitchButton
+
+DayOrNight SwitchButton
+
+<img src="https://raw.githubusercontent.com/BaymaxTong/SwitchButton/master/gifImage/SwitchButton.gif" width="320" />
 
 ---
 

@@ -6,19 +6,75 @@
 
 ---
 
+**SmartisanTime**: https://github.com/SpiritMan/SmartisanTime
+
+仿锤子时间View
+
+<img src="https://camo.githubusercontent.com/00382740283c9ad1bd7c6ab9fdac33058e58624d/687474703a2f2f3778773030782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f736d6172746973616e5f74696d652e676966" width="320" />
+
+---
+
+**StateLayout**: https://github.com/lufficc/StateLayout
+
+A custom layout that can easily switch different states(like empty,error,progress,content) with animations
+
+<img src="https://raw.githubusercontent.com/lufficc/StateLayout/master/pics/state_layout.gif" width="320" />
+
+---
+
+**WavyLineView**: https://github.com/andyxialm/WavyLineView
+
+A custom wavy line view for android
+
+<img src="https://raw.githubusercontent.com/andyxialm/WavyLineView/master/art/wavyline.gif" width="320" />
+
+---
+
+**CompoundLayout**: https://github.com/Jaouan/CompoundLayout
+
+让任何布局支持选中状态，类似 Checkbox 的属性
+
+<img src="https://raw.githubusercontent.com/Jaouan/CompoundLayout/master/art/demo.gif" width="320" />
+
+---
+
+**WeChatPswKeyboard**: https://github.com/zuiwuyuan/WeChatPswKeyboard
+
+高仿微信数字键盘、支付键盘（密码键盘）
+
+<img src="https://raw.githubusercontent.com/zuiwuyuan/WeChatPswKeyboard/master/imgs/img.gif" width="320" />
+
+---
+
+**ActionCardView**: https://github.com/AdamMc331/ActionCardView
+
+Detailed CardView that displays an action title, description, and buttons to initiate that action
+
+<img src="https://camo.githubusercontent.com/fed08272fc8bd4aca27087b27722874d15c0a6d3/687474703a2f2f692e696d6775722e636f6d2f687078706472392e6a7067" width="320" />
+
+---
+
+**Article-Details-Transition-Example**: https://github.com/Jaouan/Article-Details-Transition-Example
+
+It's just an example of material transition
+
+<img src="https://raw.githubusercontent.com/Jaouan/Article-Details-Transition-Example/master/art/popfromtop.gif" width="320" /> <img src="https://raw.githubusercontent.com/Jaouan/Article-Details-Transition-Example/master/art/popfromitem.gif" width="320" />
+
+---
+
+**FlightSeat**: https://github.com/ldoublem/FlightSeat
+
+机票座位选择
+
+<img src="https://raw.githubusercontent.com/ldoublem/FlightSeat/master/screenshot/seat_gif.gif" width="320" /> <img src="https://raw.githubusercontent.com/ldoublem/FlightSeat/master/screenshot/seat_png.png" width="320" />
+
+---
+
 **maoni**: https://github.com/rm3l/maoni
 
 轻量安卓反馈库
 
-<img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/1_Maoni_main_activity.png" width="320" /> <img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/2_Maoni_main_activity_with_screenshot_thumbnail.png" width="320" /> <img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/3_Maoni_main_activity_with_screenshot_touch_to_preview.png" width="320" />
-
----
-
-**CustomCalendar**: https://github.com/Riontech/CustomCalendar
-
-CustomCalendar
-
-<img src="https://camo.githubusercontent.com/aae72fc5d6faa2fb66e734c91fd53a6842b19224/687474703a2f2f72696f6e746563682e636f6d2f6c6962726172792f63616c656e6461722f63616c656e6461722e676966" width="320" />
+<img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/1_Maoni_main_activity.png" width="270" /> <img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/2_Maoni_main_activity_with_screenshot_thumbnail.png" width="270" /> <img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/3_Maoni_main_activity_with_screenshot_touch_to_preview.png" width="270" />
 
 ---
 
@@ -54,6 +110,14 @@ MIUI8 悬浮球
 
 ---
 
+**SimpleRatingBar**: https://github.com/FlyingPumba/SimpleRatingBar
+
+A simple RatingBar for Android
+
+<img src="https://raw.githubusercontent.com/FlyingPumba/SimpleRatingBar/master/images/sample.gif" width="320" />
+
+---
+
 **RatingView**: https://github.com/Ornolfr/RatingView
 
 等级评分
@@ -75,30 +139,6 @@ MIUI8 悬浮球
 通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画
 
 <img src="https://raw.githubusercontent.com/venshine/BezierMaker/master/screenshot/2.gif" width="270" /> <img src="https://raw.githubusercontent.com/venshine/BezierMaker/master/screenshot/3.gif" width="270" /> <img src="https://raw.githubusercontent.com/venshine/BezierMaker/master/screenshot/7.gif" width="270" /> 
-
----
-
-**Tooltip**: https://github.com/jayrambhia/Tooltip
-
-给 View 添加提示
-
-<img src="https://raw.githubusercontent.com/jayrambhia/Tooltip/master/art/demo1.gif" width="480" />
-
----
-
-**tooltips**: https://github.com/tomergoldst/tooltips
-
-给 View 添加提示
-
-<img src="https://cloud.githubusercontent.com/assets/19874536/16546659/485f29ba-415a-11e6-898d-c880e4b643b6.gif" width="320" /> <img src="https://cloud.githubusercontent.com/assets/19874536/16546707/9b891816-415b-11e6-9be6-735a5649f1d7.gif" width="320" />
-
----
-
-**CircleCheckBox**: https://github.com/arlindiDev/CircleCheckBox
-
-CircleCheckBox is an Android custom view, that simply animates the check
-
-<img src="https://camo.githubusercontent.com/babf6e0390d054a6a694bee1c198c051d7b3e218/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f785430424b75546b6e523539545a45516a432f67697068792e676966" width="320" />
 
 ---
 
@@ -134,11 +174,11 @@ showcasing specific features in the app
 
 ---
 
-**CompactCalendarView**: https://github.com/SundeepK/CompactCalendarView
+**SpiderWebScoreView**: https://github.com/xiaopansky/SpiderWebScoreView
 
-仿谷歌日历
+Android上的一个蜘蛛网评分控件
 
-<img src="https://github.com/SundeepK/CompactCalendarView/raw/master/images/compact_calendar_animation.gif" width="320" />
+<img src="https://raw.githubusercontent.com/xiaopansky/SpiderWebScoreView/master/docs/sample.png" width="320" />
 
 ---
 
@@ -184,14 +224,6 @@ HorizontalWheelView
 
 ---
 
-**GithubWidget**: https://github.com/Nightonke/GithubWidget
-
-A simple implementation of swipe card like StreetView!!
-
-<img src="https://raw.githubusercontent.com/Nightonke/GithubWidget/master/Pic/color.png" width="640" />
-
----
-
 **SwipeableCard**: https://github.com/michelelacorte/SwipeableCard
 
 A simple implementation of swipe card like StreetView!!
@@ -207,6 +239,14 @@ A simple implementation of swipe card like StreetView!!
 Android Material Design Theme UI and Tool Library. http://genius.qiujuer.net
 
 <img src="https://raw.githubusercontent.com/qiujuer/Genius-Android/master/caprice/release/pic_ui.png" width="480" />
+
+---
+
+**MemorySpinner**: https://github.com/Jasonchenlijian/MemorySpinner
+
+可以记住历史选项的spinner
+
+<img src="https://camo.githubusercontent.com/7dd0f4e141fa57a7906ad608027dc1fe84db9c7c/68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69342f3138313235373637312f544232537068436b585858585861755870585858585858585858585f21213138313235373637312e676966" width="320" />
 
 ---
 
@@ -301,35 +341,11 @@ This is a library with components of Android L to you use in android 2.2
 
 ---
 
-**SeekArc**: [https://github.com/Triggertrap/SeekArc](https://github.com/Triggertrap/SeekArc)
-
-Circular SeekBar view for Android
-
-<img src="https://camo.githubusercontent.com/1f5a943833fb6f1dc825d12df588dbf34c6da057/68747470733a2f2f7261772e6769746875622e636f6d2f6e65696c643030312f5365656b4172632f6d61737465722f7261772f73616d706c655f6170702e706e67" width="640" />
-
----
-
-**material-range-bar**: [https://github.com/oli107/material-range-bar](https://github.com/oli107/material-range-bar)
-
-Android widget for selecting a range of values.
-
-<img src="https://github.com/oli107/material-range-bar/blob/master/Screenshots/pin%20expand.gif" width="320" />
-
----
-
 **Lollipop-AppCompat-Widgets-Skeleton**: [https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton](https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton)
 
 A skeleton of google's appcompat android navigation drawer with material design.
 
 <img src="https://github.com/sachin1092/Lollipop-AppCompat-Skeleton/blob/master/art/LollipopAppCompatWidgetSkeleton.gif" width="320" />
-
----
-
-**material-calendarview**: https://github.com/prolificinteractive/material-calendarview
-
-A Material design back port of Android's CalendarView.[https://prolificinteractive.github.io/material-calendarview/](https://prolificinteractive.github.io/material-calendarview/)
-
-<img src="https://github.com/prolificinteractive/material-calendarview/blob/master/images/screencast.gif" width="320" />
 
 ---
 
@@ -402,70 +418,11 @@ Bubbles for Android is an Android library to provide chat heads capabilities on 
 
 ---
 
-**Caldroid**: [https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid)
-
-A better calendar for Android
-
-<img src="https://camo.githubusercontent.com/8160f830305493135ea8ae1fbd9e12713d6f0972/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f312e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/7ef947cbda3fd00d9b05bdf321499af9f4ec35f0/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f6461726b2e706e67" width="320" />
-
----
-
 **WheelIndicatorView**: [https://github.com/dlazaro66/WheelIndicatorView](https://github.com/dlazaro66/WheelIndicatorView)
 
 A 'Google Fit' like activity indicator for Android
 
 <img src="https://github.com/dlazaro66/WheelIndicatorView/blob/master/art/animated_wheelview.gif?raw=true" width="320" />
-
----
-
-**CircleTimerView**: [https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView)
-
-Circular timer on Android platform.
-
-<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample.gif" width="320" />
-<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample2.gif" width="320" />
-
----
-
-**android-times-square**: [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
-
-Standalone Android widget for picking a single date from a calendar view.
-
-<img src="https://github.com/square/android-times-square/blob/master/timesSquareScreenshot.png" width="320" />
-
----
-
-**Android-MonthCalendarWidget**: [https://github.com/romannurik/Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget)
-
-A simple example of a responsive Month Calendar app widget for Android
-
-<img src="https://camo.githubusercontent.com/d5fe492d922b4ff1fb2e050fc33e0d99dc12105f/68747470733a2f2f7261772e6769746875622e636f6d2f726f6d616e6e7572696b2f416e64726f69642d4d6f6e746843616c656e6461725769646765742f6d61737465722f6865726f2e706e67" width="320" />
-
----
-
-**Android-Week-View**: [https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)
-
-Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.
-
-<img src="https://github.com/alamkanak/Android-Week-View/blob/develop/images/screen-shot.png" width="640" />
-
----
-
-**SilkCal**: [https://github.com/NLMartian/SilkCal](https://github.com/NLMartian/SilkCal)
-
-Android calendar view inspired by Sunrise calendar and iOS7 stock calendar
-
-<img src="https://github.com/NLMartian/SilkCal/raw/master/images/screenshot.gif" width="320" />
-
----
-
-**CompactCalendarView**: [https://github.com/SundeepK/CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)
-
-An android library which provides a compact calendar view much like the one used in google calenders, following material design.
-
-<img src="https://github.com/SundeepK/CompactCalendarView/blob/master/images/compact-calendar-view-example.png" width="320" />
-<img src="https://github.com/SundeepK/CompactCalendarView/blob/master/images/chinese-locale-daynames.png" width="320" />
 
 ---
 
@@ -534,22 +491,6 @@ Simple Visualizer from mic input for Android.
 移动地图选址
 
 <img src="https://camo.githubusercontent.com/eff4f945232a44be81cec8a136fa17c52a43aaca/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531303132313332393235353232" width="320" />
-
----
-
-**SegmentedBarView**: https://github.com/gspd-mobi/SegmentedBarView
-
-Custom UI control for android which is showing data as a segments and a value inside them.
-
-<img src="https://camo.githubusercontent.com/9837de76dfa76929b63d3053b5cc2457516b90d5/687474703a2f2f692e696d6775722e636f6d2f4531697654374e2e706e67" width="640" />
-
----
-
-**AnimCheckBox**: https://github.com/lguipeng/AnimCheckBox
-
-Animation CheckBox
-
-<img src="https://github.com/lguipeng/AnimCheckBox/blob/master/art/animcheckbox.gif" width="400" />
 
 ---
 

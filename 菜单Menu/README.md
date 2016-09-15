@@ -6,6 +6,46 @@
 
 ---
 
+**FantasySlide**: https://github.com/mzule/FantasySlide
+
+一个 DrawerLayout 的扩展,具有帅气的动画与创新的交互，一次手势完成滑出侧边栏与选择菜单
+
+<img src="https://raw.githubusercontent.com/mzule/FantasySlide/master/sample.gif" width="320"/>
+
+---
+
+**vertical_floating_menu**: https://github.com/samsao/vertical_floating_menu
+
+vertical_floating_menu
+
+<img src="https://raw.githubusercontent.com/samsao/vertical_floating_menu/master/assets/CheckThisOut.gif" width="320"/>
+
+---
+
+**popmenulayout**: https://github.com/whilu/popmenulayout
+
+A multi level menu view(like WeChat subscription Accounts) library for Android
+
+<img src="https://raw.githubusercontent.com/whilu/PopMenuLayout/master/screenshots/device-2016-08-22-232610.png" width="320"/>
+
+---
+
+**SwipeMenuDemo**: https://github.com/Brioal/SwipeMenuDemo
+
+多达288种动画效果定制的侧滑菜单库
+
+<img src="https://raw.githubusercontent.com/Brioal/SwipeMenuDemo/master/art/2.gif" width="200"/> <img src="https://raw.githubusercontent.com/Brioal/SwipeMenuDemo/master/art/6.gif" width="200"/> <img src="https://raw.githubusercontent.com/Brioal/SwipeMenuDemo/master/art/10.gif" width="200"/>
+
+---
+
+**FloatingActionMenuAndroid**: https://github.com/pmahsky/FloatingActionMenuAndroid
+
+FloatingActionMenuAndroid
+
+<img src="https://raw.githubusercontent.com/pmahsky/FloatingActionMenuAndroid/master/Screenshot/screenshot_roboto.png" width="320"/> <img src="https://raw.githubusercontent.com/pmahsky/FloatingActionMenuAndroid/master/Screenshot/demo_gif.gif" width="320"/>
+
+---
+
 **QuickMenu**: https://github.com/ImangazalievM/QuickMenu
 
 Small library for creating menus with fast settings

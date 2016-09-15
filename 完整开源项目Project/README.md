@@ -6,6 +6,152 @@
 
 ---
 
+**GeekNews**: https://github.com/codeestX/GeekNews
+
+A pure reading App based on Material Design + MVP + RxJava + Retrofit + Dagger2 + Realm + Glide
+
+<img src="https://github.com/codeestX/GeekNews/raw/master/screenshots/GIF1.gif" width="320" /> <img src="https://github.com/codeestX/GeekNews/raw/master/screenshots/GIF2.gif" width="320" />
+
+---
+
+**Filmy**: https://github.com/salRoid/Filmy
+
+一款超漂亮的基于 MD 设计的电影 App
+
+<img src="https://camo.githubusercontent.com/c8c6ffb5294c3a1536bf928e3e0ab56fe699a2c6/687474703a2f2f7777772e77656269616e6b732e636f6d2f66696c6d792f66696c6d792e706e67" width="320" /> <img src="https://camo.githubusercontent.com/0adfbf905cf4bf59959c9675bdf02e888aa6e847/687474703a2f2f7777772e77656269616e6b732e636f6d2f66696c6d792f612e706e67" width="320" />
+
+---
+
+**LingDong2.0**: https://github.com/zhoubowen-sky/LingDong2.0
+
+“面对面文件快传”，Android端灵动快传，安卓互传文件，局域网，无网传输文件
+
+<img src="https://raw.githubusercontent.com/zhoubowen-sky/LingDong2.0/master/github-images-folder/cebianlan.jpg" width="270" /> <img src="https://raw.githubusercontent.com/zhoubowen-sky/LingDong2.0/master/github-images-folder/main.jpg" width="270" /> <img src="https://raw.githubusercontent.com/zhoubowen-sky/LingDong2.0/master/github-images-folder/trans.jpg" width="270" />
+
+---
+
+**code-reader**: https://github.com/loopeer/code-reader
+
+手机端代码阅读
+
+<img src="https://raw.githubusercontent.com/loopeer/code-reader/master/screenshot/codereader_setting_day.gif" width="230" /> <img src="https://raw.githubusercontent.com/loopeer/code-reader/master/screenshot/codereader_itemtouch.gif" width="230" />
+
+---
+
+**HAgnostic-News**: https://github.com/grigio/HAgnostic-News
+
+React Native app (Android / iOS) 阅读
+
+<img src="https://cloud.githubusercontent.com/assets/8074/18037131/149c2f34-6d7d-11e6-83d0-82af574301e3.png" width="600" />
+
+---
+
+**LookLook**: https://github.com/xinghongfei/LookLook
+
+一个精美,极简的阅读app
+
+<img src="https://github.com/xinghongfei/LookLook/raw/developer/screenshots/LookLook.gif" width="320" />
+
+---
+
+**boon**: https://github.com/Wing-Li/boon
+
+移动开发者福利App，内含多渠道打包
+
+<img src="https://raw.githubusercontent.com/Wing-Li/boon/master/img/learn.png" width="320" /> <img src="https://raw.githubusercontent.com/Wing-Li/boon/master/img/joke.png" width="320" />
+
+---
+
+**Android_UsingCar_Example**: https://github.com/amapapi/Android_UsingCar_Example
+
+基于高德地图Android API快速搭建用车解决方案的示例
+
+---
+
+**Android_Location_Demo**: https://github.com/amapapi/Android_Location_Demo
+
+高德定位demo
+
+<img src="https://raw.githubusercontent.com/amapapi/Android_UsingCar_Example/master/pic/result.png" width="320" />
+
+---
+
+**ifanr**: https://github.com/iCodeForever/ifanr
+
+高仿 爱范儿
+
+<img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/1.gif" width="270" /> <img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/2.gif" width="270" /> <img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/3.gif" width="270" />
+
+---
+
+**simplenote-android**: https://github.com/Automattic/simplenote-android
+
+Simplenote for Android http://simplenote.com
+
+---
+
+**PDFCreator**: https://github.com/scoute-dich/PDFCreator
+
+Android application to create and edit Pdf files
+
+---
+
+**LocalWeather**: https://github.com/piotrek1543/LocalWeather
+
+Weather forecast app using Retrofit, Gson, AndroidAnnotations and ActiveAndroid
+
+<img src="https://raw.githubusercontent.com/piotrek1543/LocalWeather/master/screenshots/device-2016-08-09-172447.png" width="320" /> <img src="https://raw.githubusercontent.com/piotrek1543/LocalWeather/master/screenshots/device-2016-08-09-172551.png" width="320" />
+
+---
+
+**visual-goodies**: https://github.com/alexive/visual-goodies
+
+一些界面好看的库，包括 List， Dialog, Card 等
+
+<img src="https://raw.githubusercontent.com/alexive/visual-goodies/master/images/sample1.gif" width="320" /> <img src="https://raw.githubusercontent.com/alexive/visual-goodies/master/images/sample4.png" width="320" />
+
+---
+
+**SimpleRT**: https://github.com/vvviperrr/SimpleRT
+
+可以将Linux 和 OSX 系统网络通过 USB 分享给 Android 系统
+
+<img src="https://raw.githubusercontent.com/vvviperrr/SimpleRT/master/screens/accessory.png" width="320" /> <img src="https://raw.githubusercontent.com/vvviperrr/SimpleRT/master/screens/connected.png" width="320" />
+
+---
+
+**nock-nock**: https://github.com/afollestad/nock-nock
+
+nock-nock 一个可以帮助你监控网站是否异常的 App
+
+<img src="https://raw.githubusercontent.com/afollestad/nock-nock/master/art/showcase.png" width="640" />
+
+---
+
+**PhotoNoter**: https://github.com/yydcdut/PhotoNoter
+
+Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包脚本+Dex异步加载) http://yydcdut.com/note
+
+<img src="https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/animation.gif" width="270" /> <img src="https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/screen3.png" width="270" /> <img src="https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/screen11.png" width="270" />
+
+---
+
+**SimpleDroidRx**: https://github.com/PhilippeBoisney/SimpleDroidRx
+
+An application that helps you learn and better understand ReactiveX
+
+<img src="https://raw.githubusercontent.com/PhilippeBoisney/SimpleDroidRx/master/Screenshots/hello_worlds_screenshot.png" width="270" /> <img src="https://raw.githubusercontent.com/PhilippeBoisney/SimpleDroidRx/master/Screenshots/famous_operators_screenshot.png" width="270" /> <img src="https://raw.githubusercontent.com/PhilippeBoisney/SimpleDroidRx/master/Screenshots/error_handling_screenshot.png" width="270" />
+
+---
+
+**DebugPurge**: https://github.com/eswarm/DebugPurge
+
+删除安装在手机上的 debug 版本应用
+
+<img src="https://cloud.githubusercontent.com/assets/7868514/17136186/8a8161aa-5366-11e6-9e24-663ae58c3a08.jpg" width="320" />
+
+---
+
 **FanXin3.0**: https://github.com/huangfangyi/FanXin3.0
 
 凡信 3.0 -最强微信仿品
@@ -36,11 +182,66 @@ Chromium 浏览器，Android Studio 版本
 
 ---
 
+**GithubWidget**: https://github.com/Nightonke/GithubWidget
+
+A simple implementation of swipe card like StreetView!!
+
+<img src="https://raw.githubusercontent.com/Nightonke/GithubWidget/master/Pic/color.png" width="640" />
+
+---
+
+**SupermanMusicPlayer**: https://github.com/tedhappy/SupermanMusicPlayer
+
+本地音乐播放器源码, 该音乐播放器除了实现基本的播放音乐之外, 还可以睡眠定时, 剪辑铃声, 第三方分享等功能
+
+<img src="https://raw.githubusercontent.com/tedhappy/SupermanMusicPlayer/master/screenshots/1.gif" width="270" /> <img src="https://raw.githubusercontent.com/tedhappy/SupermanMusicPlayer/master/screenshots/2.gif" width="270" /> <img src="https://raw.githubusercontent.com/tedhappy/SupermanMusicPlayer/master/screenshots/5.gif" width="270" />
+
+---
+
+**android-UniversalMusicPlayer**: https://github.com/googlesamples/android-UniversalMusicPlayer
+
+多平台（手机，平板，手表）音乐播放器
+
+<img src="https://raw.githubusercontent.com/googlesamples/android-UniversalMusicPlayer/master/screenshots/phone.png" width="270" /> <img src="https://raw.githubusercontent.com/googlesamples/android-UniversalMusicPlayer/master/screenshots/phone_lockscreen.png" width="270" /> <img src="https://raw.githubusercontent.com/googlesamples/android-UniversalMusicPlayer/master/screenshots/phone_fullscreen_player.png" width="270" />
+
+---
+
 **ApolloModMusic**: https://github.com/jp1017/ApolloModMusic
 
 Apollo 音乐播放器，Android Studio 版本
 
 <img src="https://camo.githubusercontent.com/183ab7e13a9fd2a385d9295e1c66e6742ba71311/687474703a2f2f692e696d6775722e636f6d2f49616b65666c732e706e67" width="400" /> <img src="https://camo.githubusercontent.com/0f41fe134384b66530a0b3f1907d4045cfa216b7/687474703a2f2f692e696d6775722e636f6d2f554f3067394c642e706e67" width="400" />
+
+---
+
+**Hide-Music-Player**: [https://github.com/w9xhc/Hide-Music-Player](https://github.com/w9xhc/Hide-Music-Player)
+
+Hide音乐播放器
+
+<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/3.jpg?raw=true" width="160" />
+<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/5.5.jpg?raw=true" width="160" />
+<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/9.jpg?raw=true" width="160" />
+<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/10.jpg?raw=true" width="160" />
+<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/12.jpg?raw=true" width="160" />
+
+---
+
+**Timber**: [https://github.com/naman14/Timber](https://github.com/naman14/Timber)
+
+Material Design Music Player
+
+<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-09-18-12-33-27.png" width="160" />
+<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-05-14-23-03.png" width="160" />
+<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-29-22-44-26.png" width="160" />
+<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-31-11-50-50.png" width="160" />
+
+---
+
+**Auro**:  https://github.com/architjn/Auro
+
+1st Most Fastest, Latest Designed and open source `Music player`
+
+<img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/player.png" width="320" /> <img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/upnext.png" width="320" />
 
 ---
 
@@ -113,7 +314,7 @@ A Demo with Retrofit2 Okhttp3 Dagger RxJava RxAndroid ButterKnife...
 
 天气闹钟
 
-<img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/workspace/WeAC/screenshots/3.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/workspace/WeAC/screenshots/11.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/workspace/WeAC/screenshots/18.jpeg" width="270" />
+<img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/2.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/3.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/5.jpeg" width="270" />
 
 ---
 
@@ -261,6 +462,22 @@ A third party app for androidweekly.net
 
 ---
 
+**StudyProject**: https://github.com/HotBitmapGG/StudyProject
+
+A Material Design style Gank. Io unofficial client App
+
+<img src="https://raw.githubusercontent.com/HotBitmapGG/StudyProject/master/art/01.png" width="320" /><img src="https://raw.githubusercontent.com/HotBitmapGG/StudyProject/master/art/08.png" width="320" />
+
+---
+
+**Gank**: https://github.com/JohnnyShieh/Gank
+
+An unofficial client of gank.io, based on Flux pattern and Rx series
+
+<img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/navigation.jpg" width="270" /><img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/android.jpg" width="320" />
+
+---
+
 **GankGirl**: https://github.com/gaolonglong/GankGirl
 
 RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等
@@ -382,23 +599,11 @@ TLint for 虎扑体育 基于Dagger2+RxJava+Retrofit开发，采用MVP模式
 
 ---
 
-**plaid**: [https://github.com/nickbutcher/plaid](https://github.com/nickbutcher/plaid)
+**plaid**: https://github.com/nickbutcher/plaid
 
-Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs.
+5.0 MD 设计强大demo
 
 <img src="https://github.com/nickbutcher/plaid/blob/master/screenshots/plaid_demo.gif" width="320" />
-
----
-
-**Hide-Music-Player**: [https://github.com/w9xhc/Hide-Music-Player](https://github.com/w9xhc/Hide-Music-Player)
-
-Hide音乐播放器
-
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/3.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/5.5.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/9.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/10.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/12.jpg?raw=true" width="160" />
 
 ---
 
@@ -438,17 +643,6 @@ A beautiful app 简诗 for recording anything in your life with traditional Chin
 
 <img src="https://camo.githubusercontent.com/b5cd7b49447c88ceac096b4e969b8c1b94f3b10a/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d623563343465393034323639376539332e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
 <img src="https://camo.githubusercontent.com/3f9940a080521d28fa2ad1e6bc40c25d104f411f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d613539613063336165326532616630342e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
-
----
-
-**Timber**: [https://github.com/naman14/Timber](https://github.com/naman14/Timber)
-
-Material Design Music Player
-
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-09-18-12-33-27.png" width="160" />
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-05-14-23-03.png" width="160" />
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-29-22-44-26.png" width="160" />
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-31-11-50-50.png" width="160" />
 
 ---
 
@@ -588,7 +782,16 @@ This is an Android application with camera,picture cropping,collage sticking and
 <img src="https://camo.githubusercontent.com/a7cc29cd8ba89e7244cbb008aab4f856a2e495ec/68747470733a2f2f7261772e6769746875622e636f6d2f677265617479616f2f763265782d616e64726f69642f6d61737465722f736e617073686f74732f746f7069635f64657461696c732e706e67" width="160" />
 <img src="https://camo.githubusercontent.com/bfe4171ef32eea1fd6d09471c4aed25daaec8e43/68747470733a2f2f7261772e6769746875622e636f6d2f677265617479616f2f763265782d616e64726f69642f6d61737465722f736e617073686f74732f6472617765722e706e67" width="160" />
 
----            
+---
+
+**OhMyBiliBili**: https://github.com/HotBitmapGG/OhMyBiliBili
+
+高仿系列の哔哩哔哩 - ( ゜- ゜)つロ 乾杯~
+
+<img src="https://raw.githubusercontent.com/HotBitmapGG/OhMyBiliBili/OhMyBiliBili/art/01.jpg" width="320" /> 
+<img src="https://raw.githubusercontent.com/HotBitmapGG/OhMyBiliBili/OhMyBiliBili/art/03.jpg" width="320" />
+
+---         
 
 **BiliClient**: https://github.com/android-cjj/BiliClient
 
@@ -733,14 +936,6 @@ Material Design Notes App
 
 ---
 
-**Auro**:  https://github.com/architjn/Auro
-
-1st Most Fastest, Latest Designed and open source `Music player`
-
-<img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/player.png" width="320" /> <img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/upnext.png" width="320" />
-
----
-
 **ganchai**:  https://github.com/openproject/ganchai
 
 干柴（客户端、服务端），专注于Android干货资源
@@ -832,6 +1027,14 @@ CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出�
 一个帮你成为顶尖开发者的APP http://www.growth.ren/
 
 <img src="https://raw.githubusercontent.com/phodal/growth/master/screenshot/1.pic.jpg" width="320" /> <img src="https://raw.githubusercontent.com/phodal/growth/master/screenshot/2.pic.jpg" width="320" />
+
+---
+
+**RxZhiHu**: https://github.com/HotBitmapGG/RxZhiHu
+
+高仿系列の知了日报App
+
+<img src="https://raw.githubusercontent.com/HotBitmapGG/RxZhiHu/master/art/02.png" width="320" /> <img src="https://raw.githubusercontent.com/HotBitmapGG/RxZhiHu/master/art/11.png" width="320" />
 
 ---
 

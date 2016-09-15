@@ -6,6 +6,170 @@
 
 ---
 
+**TedBottomPicker**: https://github.com/ParkSangGwon/TedBottomPicker
+
+TedBottomPicker is simple image picker using bottom sheet
+
+<img src = "https://raw.githubusercontent.com/ParkSangGwon/TedBottomPicker/master/screenshot1.jpeg" width = "320"/> <img src = "https://raw.githubusercontent.com/ParkSangGwon/TedBottomPicker/master/demo.gif" width = "320"/>
+
+---
+
+**FrescoImageViewer**: https://github.com/stfalcon-studio/FrescoImageViewer
+
+对 ImageView 实现了全屏浏览效果，同时支持了图片缩放效果，和滑动消失效果
+
+<img src = "https://raw.githubusercontent.com/stfalcon-studio/FrescoImageViewer/master/images/fresco_image_viewer_demo.gif" width = "270"/>
+
+---
+
+**RecyclerViewCardGallery**: https://github.com/huazhiyuan2008/RecyclerViewCardGallery
+
+RecyclerView实现Card Gallery效果，替代ViewPager方案
+
+<img src = "https://raw.githubusercontent.com/huazhiyuan2008/RecyclerViewCardGallery/master/art/RecyclerViewCardGallery_blur.gif" width = "320"/>
+
+---
+
+**CompareImage**: https://github.com/Onkarn92/CompareImage
+
+编辑后图片对比
+
+<img src = "https://camo.githubusercontent.com/410e870cbb40937a8d1e591d4be6d5a5f2bed9f4/68747470733a2f2f7261772e6769746875622e636f6d2f4f6e6b61726e39322f436f6d70617265496d6167652f6d61737465722f73637265656e732f73637265656e312e676966" width = "320"/>
+
+---
+
+**StyleImageView**: https://github.com/chengdazhi/StyleImageView
+
+Add styles and filters to ImageViews, Views' backgroud, Drawables and Bitmaps, with animation and bitmap output
+
+<img src = "https://raw.githubusercontent.com/chengdazhi/StyleImageView/master/images/style_sample.gif" width = "320"/>
+
+---
+
+**ShapeImageView**: https://github.com/andyxialm/ShapeImageView
+
+ShapeImageView
+
+<img src = "https://raw.githubusercontent.com/andyxialm/ShapeImageView/master/art/device-2016-01-04-173436.png" width = "270"/> <img src = "https://raw.githubusercontent.com/andyxialm/ShapeImageView/master/art/device-2016-01-04-173505.png" width = "270"/> <img src = "https://raw.githubusercontent.com/andyxialm/ShapeImageView/master/art/device-2016-01-04-173522.png" width = "270"/>
+
+---
+
+**Music-Cover-View**: https://github.com/andremion/Music-Cover-View
+
+Useful to be used as album cover in Music apps
+
+<img src = "https://raw.githubusercontent.com/andremion/Music-Cover-View/master/art/sample.gif" width = "320"/>
+
+---
+
+**PuzzleView**: https://github.com/wuapnjie/PuzzleView
+
+Android拼图支持库，轻松实现Instagram Layout效果
+
+<img src = "https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/gif-demo1.gif" width = "320"/>
+
+---
+
+**PloyFun**: https://github.com/hugeterry/PloyFun
+
+导入图片生成Low Poly风格图片的app
+
+<img src = "https://raw.githubusercontent.com/hugeterry/PloyFun/master/showUI/1.jpg" width = "320"/> <img src = "https://raw.githubusercontent.com/hugeterry/PloyFun/master/showUI/2.jpg" width = "320"/>
+
+---
+
+**onyx**: https://github.com/hanuor/onyx
+
+人工智能、机器学习、深度学习合体的图片资源识别库
+
+<img src = "https://raw.githubusercontent.com/hanuor/onyx/master/anim2.gif" width = "320"/>
+
+---
+
+**WebpifyYourAndroidApp**: https://github.com/AndroidDeveloperLB/WebpifyYourAndroidApp
+
+A small tool to convert your app's png&jpg image files into WebP when possible
+
+---
+
+**JikeGallery**: https://github.com/JeasonWong/JikeGallery
+
+仿即刻首页图片垂直滚动效果
+
+<img src = "https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966" width = "360"/>
+
+---
+
+**pearl**: https://github.com/hanuor/pearl
+
+图片加载、缓存
+
+<img src = "https://camo.githubusercontent.com/347a65e24e8e2e72538af5a675eb149a82f81c0b/68747470733a2f2f7333322e706f7374696d672e6f72672f37696a7732306135682f53637265656e73686f745f323031365f30385f30365f31335f34315f32345f3138325f6e6578757336705f706f7274722e706e67" width = "320"/>
+
+---
+
+**cookie-cutter**: https://github.com/adamstyrc/cookie-cutter
+
+移动或缩放图片来裁剪图片
+
+<img src = "https://raw.githubusercontent.com/adamstyrc/cookie-cutter/master/video.gif" width = "320"/>
+
+---
+
+**ImagePicker**: https://github.com/jeasonlzy0216/ImagePicker
+
+完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
+
+<img src = "https://camo.githubusercontent.com/d54562e2f344afa4a916d09a577098ef08a55bdb/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f696d6167657069636b65722f64656d6f312e706e67" width = "270"/>
+
+---
+
+**Luban**: https://github.com/Curzibn/Luban
+
+Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
+
+---
+
+**Qart**: https://github.com/scola/Qart
+
+将生成的二维码与选择的图片合成，生成的新二维码
+
+<img src="https://camo.githubusercontent.com/b3484d2714d126883be6a4a1ec69ba8f1ed402a3/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f613135623461666567773166376a6c766f746468776a32306b66306b6664676d2e6a7067" width="320" />
+
+---
+
+**android-zxingLibrary**: https://github.com/yipianfengye/android-zxingLibrary
+
+Android 二维码，条码扫描，生成库
+
+<img src="https://raw.githubusercontent.com/yipianfengye/android-zxingLibrary/master/images/ezgif.com-video-to-gif%20(2)%2015.33.08.gif" width="320" /> <img src="https://raw.githubusercontent.com/yipianfengye/android-zxingLibrary/master/images/ezgif.com-video-to-gif%20(5).gif" width="320" />
+
+---
+
+**BGAQRCode-Android**: https://github.com/bingoogolapple/BGAQRCode-Android
+
+Android 二维码条码扫描，生成库
+
+<img src="https://camo.githubusercontent.com/9925f6660c608bc6b25bbeb623d0184d5dca6968/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130362e676966" width="320" /> <img src="https://camo.githubusercontent.com/592a5ae13ae4c01c298b68d27f179a23843d398a/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130332e676966" width="320" />
+
+---
+
+**zxing-barcode**: https://github.com/ThePacific/zxing-barcode
+
+A barcode scanner based on zxing for android
+
+<img src="https://github.com/ThePacific/Zxing-Barcode/blob/master/gif/example.gif" width="320" />
+
+---
+
+**QrCardParsing**: https://github.com/RurioLuca/QrCardParsing
+
+二维码生成、扫描库
+
+<img src = "https://raw.githubusercontent.com/RurioLuca/MeCardParsing/master/img/screen.png" width = "320"/>
+
+---
+
 **QRGenerator**: https://github.com/androidmads/QRGenerator
 
 二维码扫描库
@@ -47,6 +211,26 @@ Android 色彩渐进 ImageView
 水印
 
 <img src = "https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width = "320"/>
+
+---
+
+**CameraFilter**: https://github.com/nekocode/CameraFilter
+
+Realtime camera filters for Android
+
+---
+
+**CameraFilter**: https://github.com/WeLikeVis/CameraFilter
+
+安卓滤镜集合
+
+---
+
+**AndroidPhotoFilters**: https://github.com/Zomato/AndroidPhotoFilters
+
+图片滤镜
+
+<img src="https://raw.githubusercontent.com/Zomato/AndroidPhotoFilters/master/art/photofilters.gif" width="320" />
 
 ---
 
@@ -115,14 +299,6 @@ Tool for create complex morphing animations using VectorDrawables (allows morphi
 Animated SVG Drawing for Android
 
 <img src="https://raw.githubusercontent.com/jaredrummler/AnimatedSvgView/master/demo/demo.gif" width="320" />
-
----
-
-**AndroidPhotoFilters**: https://github.com/Zomato/AndroidPhotoFilters
-
-图片滤镜
-
-<img src="https://raw.githubusercontent.com/Zomato/AndroidPhotoFilters/master/art/photofilters.gif" width="320" />
 
 ---
 

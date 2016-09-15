@@ -6,6 +6,18 @@
 
 ---
 
+**SimpleRestClientHelper**: https://github.com/ravi123shanker/SimpleRestClientHelper
+
+Simplest library to implement rest client APIs using okhttp3 in your app
+
+---
+
+**Perfecto**: https://github.com/developer-shivam/Perfecto
+
+Http Connection calls made easy
+
+---
+
 **Curl-Logger-interceptor**: https://github.com/grapesnberries/Curl-Logger-interceptor
 
 Library for logging your Retrofit requests as cURL in logcat
@@ -19,6 +31,12 @@ Library for logging your Retrofit requests as cURL in logcat
 A lightweight OkHttp interceptor
 
 <img src="https://raw.githubusercontent.com/charbgr/SeismicInterceptor/master/seismic_interceptor_sample.gif" width="320" />
+
+---
+
+**Thunder**: https://github.com/qiugang/Thunder
+
+OkHttp with UIThread and lifecycle safety callback
 
 ---
 

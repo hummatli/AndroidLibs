@@ -6,6 +6,110 @@
 
 ---
 
+**AutoFormatEditText**: https://github.com/aldoKelvianto/AutoFormatEditText
+
+数字自动添加分割 EditText
+
+<img ="https://camo.githubusercontent.com/df9757767f491bed46b18bb6f2575ccf4f09f950/687474703a2f2f696d672e796f75747562652e636f6d2f76692f384566373955717748666b2f302e6a7067" width="480"/>
+
+---
+
+**AutoTypingTextView**: https://github.com/krsticdragan/AutoTypingTextView
+
+带动画、加密、解密 EditText
+
+<img ="https://camo.githubusercontent.com/e075cf282998a371e6c988adc055b3b2a06a6a9a/687474703a2f2f7777772e64726167616e6b72737469632e636f6d2f6175746f7479706574657874766965772f616c6c616e696d6174696f6e2e676966" width="320"/>
+
+---
+
+**EllipsizeTextView**: https://github.com/dinuscxj/EllipsizeTextView
+
+可显示省略号的 EditText
+
+<img ="https://raw.githubusercontent.com/dinuscxj/EllipsizeTextView/master/Preview/EllipsizeTextView.gif?width=300" width="320"/>
+
+---
+
+**HintAnim-EditText**: https://github.com/cctanfujun/HintAnim-EditText
+
+提示可变化的 EditText
+
+<img ="https://raw.githubusercontent.com/cctanfujun/HintAnim-EditText/master/img/Hint-Anim.gif" width="320"/>
+
+---
+
+**SmsCodeHelper**: https://github.com/RikkaW/SmsCodeHelper
+
+识别短信中的二维码并复制
+
+<img ="https://raw.githubusercontent.com/RikkaW/SmsCodeHelper/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="180"/>
+
+---
+
+**medium-textview**: https://github.com/angebagui/medium-textview
+
+仿 medium 富文本展示
+
+<img ="https://raw.githubusercontent.com/angebagui/medium-textview/master/screenshot/Screenshot_2016-08-14-19-59-48.png" width="200"/>
+
+---
+
+**RoublePriceView**: https://github.com/VyacheslavShmakin/RoublePriceView
+
+represent any prices in Russian rouble currency
+
+---
+
+**amber**: https://github.com/hanuor/amber
+
+识别文本中的特定名词
+
+---
+
+**FormattEditText**: https://github.com/PaXLiCh/FormattEditText
+
+支持自动格式化的 EditText，比如货币、电话号码等等
+
+---
+
+**EmojiEverywhere**: https://github.com/chathudan/EmojiEverywhere
+
+Emoji in TextView, EditText for Android (like Android KitKat Emoji Keyboard)
+
+<img src="https://raw.githubusercontent.com/chathudan/EmojiEverywhere/master/EmojiEverywhereAndroid.png" width="320" />
+
+---
+
+**Emojix**: https://github.com/nekocode/Emojix
+
+One line of code to implement emoji to your whole android application
+
+<img src="https://raw.githubusercontent.com/nekocode/Emojix/master/art/preview.png" width="400" />
+
+---
+
+**RoundedCornersBackgroundSpan**: https://github.com/Iojjj/RoundedCornersBackgroundSpan
+
+Implementation of LineBackgroundSpan that adds rounded rectangle backgrounds to text
+
+<img src="https://raw.githubusercontent.com/Iojjj/RoundedCornersBackgroundSpan/master/images/demo.png" width="320" />
+
+---
+
+**ticker**: https://github.com/robinhood/ticker
+
+滚动效果 TextView
+
+<img src="https://raw.githubusercontent.com/robinhood/ticker/master/assets/ticker_main.gif" width="350" />
+
+---
+
+**FontZip**: https://github.com/forJrking/FontZip
+
+字体资源文件压缩神器
+
+---
+
 **LongTextView**: https://github.com/metalurgus/LongTextView
 
 Very long text support for Android
@@ -17,6 +121,14 @@ Very long text support for Android
 图片文字贴纸功能
 
 <img src="https://raw.githubusercontent.com/hanbaokun/StickTextView/master/Screenshot_2016-06-20.png" width="320" />
+
+---
+
+**ElegantNumberButton**: https://github.com/ashik94vc/ElegantNumberButton
+
+Brought to you by cepheuen http://www.cepheuen.com
+
+<img src="https://raw.githubusercontent.com/ashik94vc/ElegantNumberButton/master/screens/screen01.gif" width="320" />
 
 ---
 
@@ -92,11 +204,43 @@ Sometimes, we need to show a label above an ImageView or any other views. Well, 
 
 ---
 
+**MarkdownView**: https://github.com/fiskurgit/MarkdownView
+
+Display Markdown in your apps, useful for FAQs, Help, Size Guides, About screens etc
+
+<img src="https://raw.githubusercontent.com/fiskurgit/MarkdownView/master/Screenshot.png" width="800" />
+
+---
+
+**MarkdownView-Android**: https://github.com/mukeshsolanki/MarkdownView-Android
+
+MarkdownView is an Android webview with the capability of loading Markdown text or file and display it as HTML, it extends Android webview
+
+<img src="https://raw.githubusercontent.com/mukeshsolanki/MarkdownView-Android/master/Screenshots/demo.gif" width="270" />
+
+---
+
+**Markdown**: https://github.com/zzhoujay/Markdown
+
+Android平台下的原生Markdown解析器
+
+<img src="https://raw.githubusercontent.com/zzhoujay/Markdown/master/image/img1.jpg" width="320" />
+
+---
+
+**RxMarkdown**: https://github.com/yydcdut/RxMarkdown
+
+Markdown for Android
+
+<img src="https://raw.githubusercontent.com/yydcdut/RxMarkdown/master/art/rxmarkdown.gif" width="320" />
+
+---
+
 **MarkedView-for-Android**: https://github.com/mittsuu/MarkedView-for-Android
 
 markdown text viewer
 
-<img src="https://raw.githubusercontent.com/mittsuu/MarkedView-for-Android/master/sample_sc.png" width="320" />
+<img src="https://raw.githubusercontent.com/mittsuu/MarkedView-for-Android/master/sample-sc.gif" width="320" />
 
 ---
 
@@ -129,6 +273,22 @@ Simple formatting options for TextView and EditText in the same way Whatsapp pro
 仿照Google+在卡片上滚动显示最新评论的TextSwitcher
 
 <img src="https://raw.githubusercontent.com/SumiMakito/AdvancedTextSwitcher/master/art/snapshot.gif" width="480" />
+
+---
+
+**codeview-android**: https://github.com/Softwee/codeview-android
+
+代码格式高亮 in native way
+
+<img src="https://camo.githubusercontent.com/b4924dc4d61df4ae4716aa65bff1329bd170f4d5/68747470733a2f2f7331302e706f7374696d672e6f72672f636b7a7639786d6d312f436f64655f566965775f416e64726f69645f53637265656e73686f742e706e67" width="320" />
+
+---
+
+**Codeview**: https://github.com/avraampiperidis/Codeview
+
+代码格式高亮 in webview
+
+<img src="https://raw.githubusercontent.com/avraampiperidis/Codeview/master/readmepics/pic2.png" width="320" /> <img src="https://raw.githubusercontent.com/avraampiperidis/Codeview/master/readmepics/pic3.png" width="320" />
 
 ---
 
@@ -270,6 +430,20 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 密码的显示隐藏
 
 <img src="https://raw.githubusercontent.com/pucamafra/android-edittextpassword/master/screenshots/sample.png" width="320" />
+
+---
+
+**AndroidFontsManager**: https://github.com/GcsSloop/AndroidFontsManager
+
+字体管理器，方便快速的为应用内所有组件更换字体。
+
+<img src="https://github.com/GcsSloop/AndroidFontsManager/blob/master/Pic/fontsmanagerdemo.gif" width="320" />
+
+---
+
+**font-utils**: https://github.com/mattsilber/font-utils
+
+A library to help with custom fonts and text sizes
 
 ---
 
@@ -546,6 +720,14 @@ A material style input for codes
 
 ---
 
+**TextViewExpandableAnimation**: https://github.com/freecats/TextViewExpandableAnimation
+
+Expandable TextView With Smooth Transition Animation
+
+<img src="https://raw.githubusercontent.com/freecats/TextViewExpandableAnimation/master/preview.gif" width="144" />
+
+---
+
 **ExpandableTextView**: https://github.com/Manabu-GT/ExpandableTextView
 
 Android's TextView that can expand/collapse like the Google Play's app description
@@ -554,9 +736,17 @@ Android's TextView that can expand/collapse like the Google Play's app descripti
 
 ---
 
+**KMPAutoCompleteTextView**:  https://github.com/andyxialm/KMPAutoCompleteTextView
+
+AutoCompleteTextView for android with KMP algorithm
+
+<img src="https://raw.githubusercontent.com/andyxialm/KMPAutoCompleteTextView/master/art/Screenshot_sample.png" width="320" />
+
+---
+
 **AutoCompleteBubbleText**:  https://github.com/FrederickRider/AutoCompleteBubbleText
 
- Android AutoCompleteTextView with attached ListView, and drawable background
+Android AutoCompleteTextView with attached ListView, and drawable background
 
 <img src="https://github.com/FrederickRider/AutoCompleteBubbleText/blob/master/images/Screenshot_1.png" width="320" />
 

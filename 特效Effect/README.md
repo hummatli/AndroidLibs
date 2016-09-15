@@ -6,11 +6,107 @@
 
 ---
 
+**ScrollingBackgroundView**: https://github.com/noties/ScrollingBackgroundView
+
+可跟随手指滑动，进行响应式滑动的背景效果
+
+<img src="https://raw.githubusercontent.com/noties/ScrollingBackgroundView/master/gifs/gif_pager.gif" width="240" /> <img src="https://raw.githubusercontent.com/noties/ScrollingBackgroundView/master/gifs/gif_recycler.gif" width="240" />
+
+---
+
+**confetti**: https://github.com/jinatonic/confetti
+
+雪花，粒子爆炸效果
+
+<img src="https://raw.githubusercontent.com/jinatonic/confetti/master/assets/confetti_with_touch.gif" width="320" /> <img src="https://raw.githubusercontent.com/jinatonic/confetti/master/assets/explosion_confetti.gif" width="320" />
+
+---
+
+**Gradbar**: https://github.com/flouthoc/Gradbar
+
+颜色可变的 ActionBar
+
+<img src="https://raw.githubusercontent.com/flouthoc/Gradbar/master/gradbar.gif" width="320" />
+
+---
+
+**Carousel-Browsing-Example**: https://github.com/Jaouan/Carousel-Browsing-Example
+
+example of carousel browsing
+
+<img src="https://github.com/Jaouan/Carousel-Browsing-Example/raw/master/art/demo.gif" width="320" />
+
+---
+
+**ShapeRipple**: https://github.com/poldz123/ShapeRipple
+
+多种形状波纹特效
+
+<img src="https://camo.githubusercontent.com/e9ee670a477ec2d0444664cf1d505b0521593fb2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31346a6865724449314b325977772f67697068792e676966" width="270" />
+
+---
+
+**GoogleMapsRippleEffect**: https://github.com/aarsy/GoogleMapsRippleEffect
+
+GoogleMapsRippleEffect
+
+<img src="https://raw.githubusercontent.com/aarsy/GoogleMapsRippleEffect/master/gifs/Sample2.gif" width="320" /> <img src="https://raw.githubusercontent.com/aarsy/GoogleMapsRippleEffect/master/gifs/Sample1.gif" width="320" />
+
+---
+
+**welcome-coordinator**: https://github.com/txusballesteros/welcome-coordinator
+
+Welcome Coordinator for Android
+
+<img src="https://github.com/txusballesteros/welcome-coordinator/raw/master/assets/welcome_demo.gif" width="320" /> <img src="https://github.com/txusballesteros/welcome-coordinator/raw/master/assets/onboarding_demo.gif" width="320" />
+
+---
+
+**FlipCards**: https://github.com/zhangke3016/FlipCards
+
+利用Camera和Matrix实现有趣的卡片效果
+
+<img src="https://github.com/zhangke3016/FlipCards/raw/master/gif/screen.gif" width="320" />
+
+---
+
+**Parallax-Layer-Layout**: https://github.com/SchibstedSpain/Parallax-Layer-Layout
+
+视图分层视差效果
+
+<img src="https://raw.githubusercontent.com/SchibstedSpain/Parallax-Layer-Layout/master/art/ovni.gif" width="320" />
+
+---
+
+**CarouselView**: https://github.com/binaryroot/CarouselView
+
+This library is updated version of Android 3D Carousel
+
+<img src="https://camo.githubusercontent.com/9d7b68b2635c5a13cbe82639921e937597b4f8c7/68747470733a2f2f7333312e706f7374696d672e6f72672f68357a6d6b69687a762f657a6769665f636f6d5f766964656f5f746f5f6769662e676966" width="320" />
+
+---
+
+**CircularAnim**: https://github.com/XunMengWinter/CircularAnim
+
+Android水波动画帮助类，一行代码实现View显示/隐藏/startActivity特效。(对Android ViewAnimationUtils.createCircularReveal() 方法的封装)
+
+<img src="https://camo.githubusercontent.com/895f0065aa1d9c993569619853c81180c5d2658e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966" width="640" />
+
+---
+
 **PaperShredder**: https://github.com/ldoublem/PaperShredder
 
 碎纸机动画，点子出自dribbble
 
 <img src="https://raw.githubusercontent.com/ldoublem/PaperShredder/master/screenshot/1.gif" width="270" /> <img src="https://raw.githubusercontent.com/ldoublem/PaperShredder/master/screenshot/2.gif" width="270" /> <img src="https://raw.githubusercontent.com/ldoublem/PaperShredder/master/screenshot/3.gif" width="270" />
+
+---
+
+**Android-3DTouch-PeekView**: https://github.com/klinker24/Android-3DTouch-PeekView
+
+Simple and powerful library to emulate iOS's "3D Touch" preview functionality on Android
+
+<img src="https://raw.githubusercontent.com/klinker24/Android-3DTouch-PeekView/master/features.gif" width="500" />
 
 ---
 
@@ -54,11 +150,27 @@ MD 风格飞出效果菜单选择
 
 ---
 
+**LondonEyeLayoutManager**: https://github.com/Danylo2006/LondonEyeLayoutManager
+
+A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory
+
+<img src="https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif" width="320" />
+
+---
+
 **BrokenView**: https://github.com/zhanyongsheng/BrokenView
 
 玻璃破碎效果的 View
 
 <img src="https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif" width="200" />
+
+---
+
+**android_scratchoff**: https://github.com/jackpocket/android_scratchoff
+
+有图层效果的 View
+
+<img src="https://raw.githubusercontent.com/jackpocket/android_scratchoff/master/scratchoff.gif" width="220" />
 
 ---
 
@@ -75,6 +187,22 @@ MD 风格飞出效果菜单选择
 各种密码输入动画特效
 
 <img src="https://raw.githubusercontent.com/ldoublem/PassWordInput/master/screen/signup.gif" width="320" /> <img src="https://github.com/ldoublem/PassWordInput/raw/master/screen/%E6%95%88%E6%9E%9C.gif" width="320" />
+
+---
+
+**ThumbUp**: https://github.com/ldoublem/ThumbUp
+
+超炫的点赞效果
+
+<img src="https://raw.githubusercontent.com/ldoublem/ThumbUp/master/screenShot/shot.gif" width="320" />
+
+---
+
+**LikesLayout**: https://github.com/Iojjj/LikesLayout
+
+Periscope 的点赞效果
+
+<img src="https://raw.githubusercontent.com/Iojjj/LikesLayout/master/images/demo.gif" width="320" />
 
 ---
 
@@ -123,14 +251,6 @@ Android点赞+1效果，支持文本和图像
 A slider that allows a user to select a value at one of the specified tickmarks
 
 <img src="https://raw.githubusercontent.com/lawloretienne/DiscreteSlider/master/images/DiscreteSlider_Screenshot4.png" width="320" />
-
----
-
-**PodSLider**: https://github.com/bhargavms/PodSLider
-
-A UI widget slider for android
-
-<img src="https://raw.githubusercontent.com/bhargavms/PodSLider/master/assets/gifs/ezgif.com-gif-maker.gif" width="600" />
 
 ---
 
@@ -260,11 +380,11 @@ Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Pre
 
 ---
 
-**CircleRefreshLayout**: https://github.com/tuesda/CircleRefreshLayout
+**android-swipecards-view**: https://github.com/Arjun-sna/android-swipecards-view
 
-a custom pull-to-refresh layout which contains a interesting animation
+Android library for implement cards stack view with swipe to remove feature
 
-<img src="https://github.com/tuesda/CircleRefreshLayout/blob/master/gif/circlerefresh.gif" width="320" />
+<img src="https://camo.githubusercontent.com/173222c3edc0a125dfa0bd2d10262011e6f1eacb/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f73776970656361726464656d6f2e676966" width="320" />
 
 ---
 
@@ -308,9 +428,17 @@ A view that allows to paint and saves the result as a bitmap.[http://panavtec.me
 
 ---
 
+**android-passcodeview**: https://github.com/Arjun-sna/android-passcodeview
+
+A custom view with keyboard and character display to be used for authentication
+
+<img src="https://camo.githubusercontent.com/e8de865b924b69792eae1052537f94c47f59a3a2/68747470733a2f2f61726a756e2d736e612e6769746875622e696f2f7261772f70617373636f6465766965775f312e676966" width="320" />
+
+---
+
 **LolliPin**: [https://github.com/OrangeGangsters/LolliPin](https://github.com/OrangeGangsters/LolliPin)
 
-A Material design Android pincode library. Supports Fingerprint.
+A Material design Android pincode library. Supports Fingerprint
 
 <img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif.gif" width="320" />
 <img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif2.gif" width="320" />
@@ -322,14 +450,6 @@ A Material design Android pincode library. Supports Fingerprint.
 A clean, minimal, highly customizable pin lock view
 
 <img src="https://raw.githubusercontent.com/aritraroy/PinLockView/master/screens/promo.png" width="640" />
-
----
-
-**TimelineView**: https://github.com/alorma/TimelineView
-
-Cute timeline view for android
-
-<img src="https://github.com/alorma/TimelineView/blob/master/screenshot.png" width="320" />
 
 ---
 
